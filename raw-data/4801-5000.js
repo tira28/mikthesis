@@ -1,0 +1,601 @@
+module.exports = [
+  {
+     text:"Foo fighters A great album I can listen to from start to finish. No need for a skip \nbutton, only rewind. "
+  },
+  {
+     text:"Their BEST ALBUM! WHENEVER I LISTEN TO THIS, IM IN THE BEST MOOD I COULD EVER BE. I START \nROCKIN OUT ON MY GUITAR TO THE MUSIC! "
+  },
+  {
+     text:"Classic Surging, powerful, engaging, humorous, varying, top-shelf rock music and \nlyrics. Absolute classic. "
+  },
+  {
+     text:"Kat fae Glasgow I dedicate this album to my late best friend Kapo. Gone too soon and \nsorely missed. Best album ever and Kapo abso LOVED it.. Xx "
+  },
+  {
+     text:"This is the best band ever!!!!! This is the best band ever!!!!! The talent of these musicians is, not only \nastonishing and amazing, but impossible to compare to any other group. Very \ninfluential, and HIGHLY RECOMMEND. Thank you Foo Fighters!!!!!! \n:-):-):-):-):-):-):-):-):-):-):-) "
+  },
+  {
+     text:"A great band! What can I say...I miss Kurt and wonder often what would have been but \nwhat is now...super great music by Dave! Blessed and worth playing over and \nover... "
+  },
+  {
+     text:"Hooked From the first time I heard Best Of You, I was hooked instantly. "
+  },
+  {
+     text:"Love the Foo Fighters I just love their songs and their most successful ones all in one Album! \nWhy wouldn't you want to buy it? "
+  },
+  {
+     text:"Wow amazing :-) What can u say another great album from 1 of the best bands in the world \n:-) "
+  },
+  {
+     text:"But sh!t it was 99 cents.. How can you complain one of the beat albums of the last 20 years for just \n99p??? "
+  },
+  {
+     text:"Buy this album!! You can tell K.Michelle put everything into this album. I enjoy every song \non it. Support this true artist. "
+  },
+  {
+     text:"Anybody wanna buy a heart Beautifull voice,loved it.!! "
+  },
+  {
+     text:"She is my idol i absulotely love her "
+  },
+  {
+     text:"Amazing Love k michelle soulful voice :) "
+  },
+  {
+     text:"DOPE! R&B on 100!! "
+  },
+  {
+     text:"The Best Old School Rap Album Ever? I certainly think so. A collection of some of Tupac's best songs. Its one \nof those albums where you wont be pressing the skip button alot but rather \nthe repeat button. 11/10. "
+  },
+  {
+     text:"What the hell? You canceled 2PAC on my phone after i purchased it AND had for over a year \nthen \"canceled\"and pulled it- saying \"not available in your country \" last \nI heard the USA didn't have music POLICE!Album. Great.you guys suck!gimme \nmy 2PAC BACK!! "
+  },
+  {
+     text:"One of the greatest He and most 90's and early 00's actually told stories of their struggles \nin life unlike nowadays where its sex and drugs. I don't compare Biggie and \nPac because I think they are both the best of all time "
+  },
+  {
+     text:"This album will forever be a classic in hip hop The best to ever do it were, PAC and BIGGY, HANDS DOWN! But I have to give \nthe crown to THE NOTORIOUS B.I.G. That's only my opinion we can go back and \nforth all day along about it. ;) "
+  },
+  {
+     text:"Old School I used to have the CD of this.... man good times Chillen with the homies \n.... very best... heart of old school rap.... makes you miss the holiest \nwho past away .. or moments in life. I highly recommended this album "
+  },
+  {
+     text:"2pac the best For people who say biggie sucks they're really stupid because he was raw \non the mic but in my opinion 2pac just touched us on a way bigger level \nthan biggie "
+  },
+  {
+     text:"Legendary After our Lord Jesus Christ working on this earth as human in flesh. One \nwould say, 2pac is to be considered as the best of all Legends. All you \nwrote, sang and spoke about still unfolding, hiphop stars today are selling \nthe next generations for fame and stupid things, supporting and promoting \n\"One World Order Agenda\" these new age stars are bunch of cowards. Afterall \n2pac, you was for the truth \"till the end of time\", and even in the face of \ndeath. We miss ya brother! Bless your soul. What a legend! "
+  },
+  {
+     text:"The greatest 70s and 80s backing tracks with a flawless, almost militant flow. There \naren't many, if any, hip hop artists that have achieved this level of \ntechnique and variety. "
+  },
+  {
+     text:"Tuck Pac was the realest thing we ever had in rap music these guys now its just \nsex,drugs, and killing they don't tell stories like this and majority of \nthem don't live the life they rap about fake rappers R.I.P Pac we miss you \nin music "
+  },
+  {
+     text:"The all time greatest hip hop artist hands down. The original an real thug \nlife. All this albums missing is an outlawz track "
+  },
+  {
+     text:"To amazing No amount of words can describe how much 2pac music has such an impact on \nthe fans, this is definitely a must own. "
+  },
+  {
+     text:"A pretty good one stop Pac playlist The best if you want to be refreshed on all of Pac's best pieces of work. "
+  },
+  {
+     text:"Directwaif85 Legend Tupac Amaru Shakur 2Pac is Legendary his ❤ for music made him who \nhe is today, & he was also an Artist Actor, Role Model to some fans & \nProphet he's inspired people to better their Life. % 2Pac Is Da one & only \nLegendary Rap Artist... Nobody can replace him. 1❤1Thug1 2 y'all True 2Pac \nFans "
+  },
+  {
+     text:"Anthony dont kno sh** PAC OVER BIGGIE. SLAP URSELF ANTHONY "
+  },
+  {
+     text:"Greatest album collection RIP to the great Lesane Parish Crooks. Great album of true hip-hop with \ndeep and penetrating lyrics. "
+  },
+  {
+     text:"2 Pac Best rapper forever His music comes from his heart no one can't beat him 2 \npac fan forever till I die I grew up on his hits music "
+  },
+  {
+     text:"Died early He should be here now to give lectures to so called now rap singers who \nkills the mic for money "
+  },
+  {
+     text:"Man pac, my dude, he was just real as hell. All these rappers now are \ngarbage.. And ftp! "
+  },
+  {
+     text:"Always good These songs will never get old... "
+  },
+  {
+     text:"Tupacs greatest hits The likes we will never see again a flawed genuis "
+  },
+  {
+     text:"Mint Have not heard good 2 pac for soooo long cheers google play "
+  },
+  {
+     text:"Amazing I'm in love with this man. His music will never get old "
+  },
+  {
+     text:"2 pac I like this album this go's out to 2 pac a gang killed 2pac "
+  },
+  {
+     text:"Takes me back. I love 2pac music r.i.p or if ur out their what's up pac.) "
+  },
+  {
+     text:"Tupak He is the best ever, he lives always! You are so missed! "
+  },
+  {
+     text:"I love this whole album I miss him mane...ain't no other rapper like Tupac #RIP "
+  },
+  {
+     text:"2 PAC LIVE FOREVER! I'm from old school and I love all his music and I think he is one of the \nlegends of rap. Brings me back! "
+  },
+  {
+     text:"I like 2 pac but I like 2 pac but the best rapper is biggie smalls both was the best R.i.P \n2 pac and biggie smalls a.k.a notorious big "
+  },
+  {
+     text:"Love me sum pac 2pac and biggie PA d the way for hip hop today we lost to of the greatest \nrappers to date "
+  },
+  {
+     text:"The God of Rap No denying, 2Pac is the best "
+  },
+  {
+     text:"2pac Man you good at your songs I think you the best man always is always will \nbe we all love you man even all your friends wish you where their with them \nand I wish you where mine always love you man R.I.P xxx "
+  },
+  {
+     text:"Pac is dah mahn RIP to aman that changed the world "
+  },
+  {
+     text:"Changes 2Pac Some Things Will Never Change "
+  },
+  {
+     text:"2pac I lov dis man and all his creations exspecially \"Dear Mama\" and \"Keep Ya \nHead Up\" !!!!! "
+  },
+  {
+     text:"Changes - That's just the way it is~ "
+  },
+  {
+     text:"genius BEST RAPPER EVER NONE BETTER THAN PAC R.I.P 2PAC "
+  },
+  {
+     text:"A legendary visionary.. This was the best album ever.. He made me feel every emotional possible.. \nTruly a beautiful man.. R.I.P. Tupac Amaru Shakur..Love you man.. "
+  },
+  {
+     text:"So many tears Clear my head "
+  },
+  {
+     text:"I will always love you tupac Beautiful music its better than what they play today like its the truth \nits what he feels "
+  },
+  {
+     text:"2pac i loved listening to a tape i had with all his tunes the best for driving \naround london or werever u are well missed 2pac "
+  },
+  {
+     text:"Amazing I loved the remake. I found myself having dust in my eyes more than a few \ntimes lol. Singing was on point as well. For all the folks saying why make \na black no sorry \"a hip hop\"version leave it to the classic... learn to not \nbe so racist ugh just give credit where it's due "
+  },
+  {
+     text:"We can't stop SINGING Love the movie, we watched it last evening and I knew we had to buy the \nsoundtrack the second my 5 year-old started humming the songs in the car. \nThis movie did not disappoint and neither does the awesome updated \nsoundtrack and new original songs. "
+  },
+  {
+     text:"Beautiful Totally buying this album, this movie was so moving, and the music was a \nhuge part of it. I usually don't enjoy movies were there's a lot of \nsinging, but tbh, this movie and its soundtrack were awesome. Made me cry. \nAnd that's a good thing. Fav songs: Hard knock life, tomorrow, opportunity, \nlittle girls. But why isn't the PBJ song on here? Lol. "
+  },
+  {
+     text:"One of the best musical remakes ever At first I was worried about the music and storyline when I first saw the \nmovie, but the storyline was mostly the same just in a different time \nperiod, the music though, was a whole new level of mind blowing, they \nmodernized the music to perfection and is just pure poetry! "
+  },
+  {
+     text:"Childlike I love the album they did great doing the renditions of timeless classic. \nThey gave it the new millennium flavor but not to much that would take away \nfrom the originality of the music. "
+  },
+  {
+     text:"THE MOVIE WAS AMAZING I saw a quote where somebody said they thought it was terrible that ANNIE \nwas black and I think that's very racist. But the singing and movie was \ngreat! "
+  },
+  {
+     text:"QUVENZHANÉ WALLIS AND JAMIE FOXX SAW THE MOVIE BIG SHOUT OUT TO MY PEEPS. QUVENZHANE WALLIS THATS MA GIRL. \nALSO A SHOUT OUT TO MA PEEP JAMIE FOXX. LOVE THE MOVIE. ANNIE 2014. I HAVE \nSO MANY FAV PARTS. "
+  },
+  {
+     text:"Pales in Comparison!! This is no where near the calibur of the original movoe or the Broadway \nMusical. Save your money. The voices are so weak and not anywhere near as \nstrong. And the music is too digitized. Yuck!! "
+  },
+  {
+     text:"Daughter loves the movie and the music She can't stop singing the songs, and as a dad I do not mind, because it's \nbetter than most songs out there. "
+  },
+  {
+     text:"Annie is so beautiful. This movie made me have tears in my eyes. I wish I \ncould be like her and we're the same age. "
+  },
+  {
+     text:"Sad Should have left Annie alone. Hip-hop versions of these classics...just \nbad decision making. So forgettable. It just dishonors the original \ntimeless version. "
+  },
+  {
+     text:"Tomorrow My favorite song. I give lots of other movies 1 star but this one got me \nreal good. Love the movie. Is it maybe because I'm 9? "
+  },
+  {
+     text:"They shouldn't of even called the movie Annie. Hardly recognize any of the \nsongs. And not everything has to be modernized. Sticking with the original \nmovies for sure. "
+  },
+  {
+     text:"Fantastic film The soundtrack is as good as the film and the cast sang the tracks \nbeautifully. Who am i? Is my fave it beings tears to my eyes and can listen \nto it for hours nonstop... "
+  },
+  {
+     text:"Love the music Loved the movie, a must see "
+  },
+  {
+     text:"AWESOMENESS Love the soundtrack and LOVE the movie. The critics are so studip and I \nbelieve maybe kind of bias in my opinion "
+  },
+  {
+     text:"I can't stop singing! The best musical I've seen!They chose the right part for everyone. "
+  },
+  {
+     text:"It's a hard knock life Its a hard knock life for us it's a hard knock life for us instead of \ntreated we get tricked instead of kisses we get kicked its a hard knock \nlife "
+  },
+  {
+     text:"Has me in tears I LOVE that movie soo much now I can listen to the song day or night that \nis sooo AWESOMENESS "
+  },
+  {
+     text:"Wonderful I like the music to it the last part almost made me cry cause it was so \nsad I couldn't believe my eyes it was so beautiful I mean it "
+  },
+  {
+     text:"BEST MOVIE EVER I love the song the most everyone I find myself singing along and \nsometimes I don't even know I am "
+  },
+  {
+     text:"On repeat for life I loved the movie so much and I love the music so much I've been listening \nnon stop ever since the movies yesterday. "
+  },
+  {
+     text:"Captivating My husband and I saw the movie tonight and loved it. As soon as we got \nhome, we downloaded the album. Very beautiful....opportunity on replay lol "
+  },
+  {
+     text:"Can't stop singing! I love this movie so i love this! But I had alot of trouble buying it "
+  },
+  {
+     text:"Nice remake It's hard to beat the classics but I like the remakes as well as the new \nsongs. "
+  },
+  {
+     text:"Great songs If you can look at this as a separate film to the original. The songs have \nbeen made to be updated. Some you love and some Not! "
+  },
+  {
+     text:"Sucked They just had to ruin Annie with this rip off of a movie and modified \nsong. This album and movie is anything but original. "
+  },
+  {
+     text:"Annie rocks The 2014 version of Annie beats almost all of the movies in 2014. Their \nsongs are awesome. #annie4realz "
+  },
+  {
+     text:"Omg in tears I just watched the movie and all the songs fit in perfectly i love annie \nso good "
+  },
+  {
+     text:"So worth $9.99 I loved the movie and especially this album my favorite song is I think \nI'm gonna like it "
+  },
+  {
+     text:"Annie original movie Its a hard knock life im a foster also is really scary in I'm 12 years old "
+  },
+  {
+     text:"Not sure whether problem is my phone but half the music comes out as tho ot \nis on fast forward. Great film tho me an my 5 yo were up dancing "
+  },
+  {
+     text:"This Is Awesome My Fave is Your never fully dressed without a smile I totally recommend \nthis album "
+  },
+  {
+     text:"Amazing I just won't stop singing so happy The best songs in the world I have ever heard "
+  },
+  {
+     text:"LOVED IT This was a awesome movie. Loved it. But who cares if Annie's black your \ngonna let that ruin this awesome movie.! "
+  },
+  {
+     text:"I love the movie I've seen it 3 times and love it every time. I just can't \nstop singing the songs. "
+  },
+  {
+     text:"Rated as one of the best person ever! nnie is funny and cool so as her friends too! I really want to get this \nalbum so much because I like to listen to music a loooooot! "
+  },
+  {
+     text:"Best song ever because this is really the best ive ever heard. I was in school the other \nday and it went on the radio. At first i didnt know what the song was but \nnow its the best "
+  },
+  {
+     text:"Worst remake ever The other one is a classic and this is just an awful knock off "
+  },
+  {
+     text:"Tomorrow The sun really will come out tomorrow "
+  },
+  {
+     text:"MizzM Pre ordered both versions to help with her leaked songs. Love what I heard \n& saw so far. Can't wait to jam to it in my convertible. Yes I have been \ntemted to find it on web but I'm going to wait for cds, that thrill of \nfirst time listen. Plus I'm not going to support the thief that leaked her \nsongs, she works very hard to bring her fans the best. "
+  },
+  {
+     text:"Living for Loving #RebelHeart Not since \"Confessions on a Dance Floor\" have I loved an album by Madonna \nenough to give it a bona fide 10...UNTIL NOW! And that's a little \npremature, seeing as how only 6 songs have been released. But I guarantee \nthis album will get rave reviews, and it will debut on both Billboard and \niTunes at #1. Congrats #Madonna. "
+  },
+  {
+     text:"Rebel heart All round good album. Few fillers as deluxe version has a lot of tracks. \nJoan of arc, wash all over me and the title track are my favourites at the \nmoment. I'm a sucker for a madonna ballad. "
+  },
+  {
+     text:"Very good album I love most of this album but I must say that it is a bit of a bummer that \nI have already heard almost every track of this cd. It is not Madonna's \nfault of course but part of the thrill of buying a new album is listening \nto all that new music and this just seems a bit of a let down in that \nregard "
+  },
+  {
+     text:"Rebel Heart Love it ...Madonna back to her best . I hated MDNA , thought she'd lost \nthe plot , but Madonna has redeemed herself for sure . I'd have dropped \nBody Shop, weak ...but that's about it. Looking forward to the tour now. "
+  },
+  {
+     text:"give it up just cant stay current and the old music just doesnt have the same power "
+  },
+  {
+     text:"Not my thing but then I don't have a thing ! Very clever dance pop but At times Sounds like Karen Carpenter was \nreincarnated and made a dance album with a really tripped out drum machine \nand some disposable girl pop samples and got Cher in on the pitch \ncorrection tool.. Next time 'My Donger ' should make a guitar album. Now \nthere's a challenge! Glad to see her being compeditive again thou I guess "
+  },
+  {
+     text:"Worst album ever This is Madonna at her worst. Loved her for years but this is s***. "
+  },
+  {
+     text:"Up untill ray of light , I was a big Madge fan . I still like a handful of \nher songs . but I'm not keen on thus modern sound she has adopted. But she \nis still gorgeous to me . I'm a 80's teenager still , so I will prefre her \noriginal hits and sound . xxx "
+  },
+  {
+     text:"The mother of reinvention Needs to reinvent what it is to be 50 and on, not try to be 20, she owned \nher 20's first time around, come on madge this is desperation. Having said \nthat living for love was catchy as hell. But a puddle in a desert does not \nmake an ocean. "
+  },
+  {
+     text:"Rebels don't look like you Did not like it so much I only like living for love and holy water "
+  },
+  {
+     text:"Missing the vibe. . Madonna was always known for reinvention, cutting the edge, creativity...I \nfeel like this is just a repeat of what's been done. Although the song \nliving for love is catchy. It needs life infused into the artery of what's \nknown as Madonna "
+  },
+  {
+     text:"Reductive Reductive nothing new sounding and lame as hell requoting lyrics from \nvogue...desperation has set in "
+  },
+  {
+     text:"Every song sounds the same but I like Wash all over me "
+  },
+  {
+     text:"Peter longstaff Madonna brilliant in early days then sorry to say never been that \ninterested but this is fantastic stuff brilliant congratulations going to \nbe huge "
+  },
+  {
+     text:"Masterpiece! This album is so addicting... Can't stop listening to it... One of \nMadonna's best album... Love it "
+  },
+  {
+     text:"Awesome I never liked Madonna until this album came out. "
+  },
+  {
+     text:"REBEL HEART DELUXE Fantastic album revealing & honest only Madonna could produce such music "
+  },
+  {
+     text:"Rebel heart Great album maddona back with bang xx glad to she her on the brits "
+  },
+  {
+     text:"Rebel heart Great album been waiting for this "
+  },
+  {
+     text:"Great tunes Love this album best iv heard from Madonna in ages, very likeable "
+  },
+  {
+     text:"She is back After several mediocre at best albums she is back, this is one of her best \nalbums! "
+  },
+  {
+     text:"The most mysterious album of Madonna "
+  },
+  {
+     text:"Madonna Madge you did it again - gritty and not 1 for the faint hearted "
+  },
+  {
+     text:"My heroin returns. The best album in a while,catchy madonna is back. "
+  },
+  {
+     text:"Madonna rebel heart Loving ghosttown.. brilliant as usual maddie ! "
+  },
+  {
+     text:"Mmm Madonna cant actually sing and a song called illuminarti .....too far "
+  },
+  {
+     text:"Elon Rood King of the Earth n Moon loves you "
+  },
+  {
+     text:"She is so hot I think I am in love with Madonna "
+  },
+  {
+     text:"one of the best albums of the decade This one takes the prize! "
+  },
+  {
+     text:"Madonna is back. Love her more than ever "
+  },
+  {
+     text:"Madonna -Rebel Heart This is a great album. Madonna is flawless. "
+  },
+  {
+     text:"rebel heart a powerful album.she gets better with age. "
+  },
+  {
+     text:"Love all songs! Great album! Best since Ray of Light! Maybe even better "
+  },
+  {
+     text:"Madonna is a queen Perfect! I love this album! "
+  },
+  {
+     text:"Rebel Heart One of her best albums ever!!! "
+  },
+  {
+     text:"Yes yes "
+  },
+  {
+     text:"Beautiful Excellent album after ray of light "
+  },
+  {
+     text:"*-----* ЛИВИНГ ФО ЛАААВ, ЛИВИНГ ФО ЛАААААВ "
+  },
+  {
+     text:"Hey hey.. Your one and only fan . "
+  },
+  {
+     text:"Incredible and forever magical I was lucky to have grown up listening to the Floyd as a young kid but the \nfirst time I heard Shine on you crazy diamond I was blown away. This new \nalbum may be the last one ever but there is no denying its a masterpiece. \nIt might not be the Floyd were used to hearing but we can appreciate the \nmusicianship these guys have and what magic they came up with "
+  },
+  {
+     text:"Wow Put on some good headphones and block out an hour of uninterrupted time \nand you will not be disappointed. This is as good as anything Pink Floyd \nhas ever done. And I don't care which \"version\" or which era you consider \nyourself to be a fan of. Every aspect of Floyd is special in its own way, \nand this album does not disappoint on any level. "
+  },
+  {
+     text:"An Beautiful End To An Era Pink Floyd is my favorite band. I adore all their material, from the Syd \nBarrett days, to Waters reign, to now, the Waters era being my favorite due \nto its complex construction and deeper meaning beneath the music. \"The \nEndless River\" is, without a doubt, a perfect goodbye. It ties together all \naspects of the band's history. I knew I would like it, but I fell in love \nthe moment I heard it. "
+  },
+  {
+     text:"Nothing new... ... but just what you'd expect of a Pink Floyd Album. It takes you from \n\"Dark Side of the Moon\" to \"Wish You Were Here\" through \"The Wall\", \"The \nDivision Bell\" back to \"Echoes\". It's all in there! It is funny how you \ninstantly recognize where this is coming from and who played it. The only \nthing missing is the singing... but probably because of lack of words; some \nof these songs are yelling for words and I am sure someone, one day, with a \nvoice similar to that of David Gilmour will put words to it and make \"The \nEndless River\" a real Pink Floyd Album. I for my part just love it and if \nyou have not been a Pink Floyd fan before, this will make you discover all \nthe other albums. \"The Endless River\" is sort of the \"menu de dégustation\" \nof this best-ever concept album rock band. Did I forget something? YES! It \nis TIMELESS!! :-) "
+  },
+  {
+     text:"Good, but no Dark Side... This is essentially an album of ambient music leftovers from the Division \nBell album sessions of 1993 or thereabouts (only one vocal track) and was \nreleased as a tribute to the late Rick Wright, Floyd's great keyboards man. \nIf you don't buy this expecting to hear another Dark Side or Wall you will \nenjoy this fine music. If its their final release as is rumoured , not a \nbad way to end the band's stellar recording career! "
+  },
+  {
+     text:"More Gilmour, Less Floyd. Lovely album. Although this is, basically, a David Gilmour solo album. Not \nthat that is a bad thing, but I was slightly disappointed when I first \nlistened. Where is the intense Gilmour guitar that we all love, those solos \nthat make you shiver? The intense drums that have your hairs stand on end? \nWell, they just don't materialise in this record. It is, however, an \nexcellent album in its own right. Up there with 'The Wall' and 'Wish You \nWere Here'? Not quite. "
+  },
+  {
+     text:"It's a different time, so don't compare this to DSOTM, the Wall, Wish You \nWere Here, or Animals. It's not on that level but that's not a fair \ncomparison. It is definitely a great listen, with plenty of familiar David \nGilmour awesomeness and sounds (Listen to Surfacing them Poles Apart from \nDivision Bell). It doesn't have that Floydian concept album feel, and at \ntimes feels disjointed with no central theme and all, but it makes for a \nnice listen, and makes me want more. What say you, David and Roger? "
+  },
+  {
+     text:"Childhood memories I was introduced to pink floyd as a child by my mother and all of her pot \nsmoking friends. Absolutely fell in love with the dramatical hypnotic moods \ncreated by floyds music. This album takes my mind back to the days of \nrelaxation and happiness as that proberbly half stoned happy child. Shame I \nhad to grow up. Love love love it. "
+  },
+  {
+     text:"The final chapter to Pink Floyd's tremendous career! During the recording session of The Division Bell during the fall of 1993, \nPink Floyd went back to their roots with the psychedelic/mellow sound they \nhad during the late 60's & early 70's. The Endless River is superb & the \nfinal LP from Pink Floyd. I grew up listening to Pink Floyd back in the \nday. My first Pink Floyd LP I listen to on my Father's record player was \nThe Dark Side of The Moon. (Which will have a special place in my heart) My \nfirst Pink Floyd concert was The Division Bell Tour in 1994. "
+  },
+  {
+     text:"Great album Wright's contributions on this album are among his most prolific. Gilmour \nand Mason have done an amazing job capturing the classic Floyd feel despite \nthe obstacle of constructing this album in such a disjointed manner. My \nonly complaint is that it is the inevitable end of The Pink Floyd. "
+  },
+  {
+     text:"Excellent addition and final point to Pink Floyd legacy I'm a huge Pink Floyd fan, I own every one of their albums. This one is \nnot one of their best work in my taste, but it's a really good one. I'm a \nfan of musical gigs of Pink Floyd, Echoes is one of my favourite actually, \nso this album is really a nice touch to me. But yet again, this album \nwasn't advertised as a 'real' album, it's an edited set of tracks recorded \nfor the double album that The Division Bell was supposed to be. I would \nplace it between my fourth of fifth prefered Pink Floyd album. "
+  },
+  {
+     text:"Forever and ever! This is what you do with this album first night you get it: put it on your \nphone/iPod/whatever, put in your earphones, go to bed, close your eyes, \nimmerse yourself in the music. I guarantee you won't know what happens next \nor how much time has passed since. But what you would get is the memory of \nthe best night of your life next morning you wake up. Just do it! "
+  },
+  {
+     text:"Time moves on, but doesn't forget The Endless River flows between the void of Meddle and The Division Bell \n... For those of us fans who enjoy Saucer or UmmaGumma, then TER is our \ncoda. Should've been simply four songs, Side 1-4 and left it at that, as \nthat's how it runs. Its an album in the age of singles & digital downloads \nat that. Where it does start to languish is on the only vocal track, with \nthe belabored lyrics & seeming \"What God Wants\" frankness that never suited \nFloyd well. If you don't own pre-1973 PF stay away. "
+  },
+  {
+     text:"Pink Floyd : Endless River A very serene ambient mix with that great Pink Floyd sound. The only thing \nmissing is vocals by Waters. Great music to relax by or space out on when \ngoing to sleep. "
+  },
+  {
+     text:"What's old is new again? It's been 20 years since the last studio album. I've listened to it and \nI'm on the fence at this stage. I wanted to love it...I still do and maybe \nI will. "
+  },
+  {
+     text:"Ethereal Masterpiece This album is incredibly serene. The instrumental tracks are very calming \nand the final track, Louder Than Words is just beautiful. The album is a \ngreat tribute to Richard. Ultimately, this masterpiece is a great way to \nwrap up their career and is a must have for any Pink Floyd fan "
+  },
+  {
+     text:"Top class Been a Floyd fan for over 42yrs still play them at the ripe old age 62 \nhippies never grow in the mind just lose there hair "
+  },
+  {
+     text:"The Endless River Pink Floyd's new album is great in my opinion even though it's a \ninstrumental album apart from the last song you can tell it's Floyd and \nit's a shame it will be the last one but as I've liked Floyd all my life \nand had the pleasure of seeing them twice I class myself as lucky to of \nseen such a great band long live Pink Floyd "
+  },
+  {
+     text:"Another classic The album, from beginning to end, is like one big circle. It starts off \nhow it ends. Very easy to listen and a hell a lot better than the vicious \namounts of crap that is coming out from the pop music scene. "
+  },
+  {
+     text:"Not what you think I have to agree that this is more ambient music with one or two songs \nthrown in. Fortunately I was able to listen before buying so I'm going to \npass on this. Not to worry, I never tire of listening to the old stuff! "
+  },
+  {
+     text:"Disappointed This has to be the slowest most boring album I've heard. Hit play on the \nfirst track and it takes about 30 seconds before anything audible comes \nthrough the speakers. Its music to play while your asleep. If you're \nexpecting anything like their albums, Dark Side of the Moon, The Wall or \nAnimals then don't bother with this. "
+  },
+  {
+     text:"Loved this so much Pink floyd is just amazing, and the musical harmony is so beautiful. I \ndont know how long I will just keep this on replay. It deserves its own \nplaylist lol. "
+  },
+  {
+     text:"Absolutely Pink Floyd An utterly sweeping and at times heartbreaking farewell to one of the \ngreatest rock bands of our time. It's been an honor and a privilege knowing \nand growing up with your music. "
+  },
+  {
+     text:"Thanks PF! Today's artists sure could learn a thing or two from you guys! Thanks for \none more! Great stuff "
+  },
+  {
+     text:"Nothing compared to what they played in the past I was looking forward to this album for quite a while but I'm afraid Pink \nFloyd don't have that spark anymore. They have some quality tracks but they \ndon't have that energy that they once did "
+  },
+  {
+     text:"Good final cd A good way to end a Pink Floyd Legacy. This album takes us back to the jam \ndays. Sounds like tracks found on wish you were here and dark side as well \nas the division bell. A good creation. "
+  },
+  {
+     text:"Simply suberb This album is exactly recorded like the previous pink floyd albums I.e. \npre gilmour era. Remarkable that in this day and age you could reproduce \nall that psychedelic goodness from 1960's. Loved every second of it. "
+  },
+  {
+     text:"Sooo Disappointing! Just recycling old ideas, no real songs apart from track 18, just sounds \nlike a Gilmour jam. It is what you would expect Floyd to sound like without \nthe Waters bits (wasn't he the one that wrote the lyrics?).. "
+  },
+  {
+     text:"Love Pink Floyd but... Most of the songs sound like intros that lead up to... Nothing - just the \nnext song. "
+  },
+  {
+     text:"Good Addition Long time Floyd fan. Good easy listening album but with the lack of vocals \nit it lacks memorable songs in my opinion. "
+  },
+  {
+     text:"Brilliant individuals brilliant record I do I didn't know of the talents \ndisplayed I this record.. So far I only knew of their pop hits which I \ndidn't rate highly.. I have only realised their individual talents now \nthrough the release of this lp bravo to all who got the together for this \nlp "
+  },
+  {
+     text:"So sad this is going to be Pink Floyd's last album. But man this is a great \nalbum. "
+  },
+  {
+     text:"Back to classic Floyd If you want chilled original Floyd with hints of past songs sprinkled \nthroughout, this is a brilliant album. There are some really good bits of \nnew inspiration in here as well. Thoroughly recommended. "
+  },
+  {
+     text:"End of an era. One of the best bands of all time releases what is essentially a jam \nsession from 20 years ago. Some classic Floyd here. Amazing album. "
+  },
+  {
+     text:"Mind melt Takes you back to the early days reminds me of Delicate Sounds of Thunder \ntour. "
+  },
+  {
+     text:"Magnificent I feel floating from the begin to the end... It's just amazing how Gilmour \nstill can make something new this beautiful... In the begin I can imagine a \nrock, and then boom... And the end with \"Louder Than Words\" it's just \noutstanding... "
+  },
+  {
+     text:"Just bought this now, listening now, i was raised hearing pink floyd my \nwhole life. I gained full interest in my teens and now have a welcome to \nthe machine tattoo of the mechanical handshake. ♡ looking forward to \ngetting lost in this one. I know their work will live through many decades \nmore. Rip wright. "
+  },
+  {
+     text:"Not enough guitar Just a bunch of sound effects. Only 1 song with lyrics. Disappointing \nFloyd Album "
+  },
+  {
+     text:"Awesome Just put my Labrador down today this album has allowed me to just sit and \nrelax thanks to the Pink Floyd guys "
+  },
+  {
+     text:"Leftover instrumental garbage Don't do it unless you have plenty of drugs to enjoy it. "
+  },
+  {
+     text:"N/A"
+  },
+  {
+     text:"A bit of YEEZUS, mixed with MOTM This album was very much anticipated and the hype couldn't have been \nhigher. My expectations were high given what DBR was and the litrelease \ntracks coming after. So with the track record of Travi$, I expected a great \nalbum, something like an extension of DBR. WRONG! The album was nothing \nlike DBR. Sonically, it was a masterpiece. Less trap influence on here \n(good thing). Has it's highs and lows, but overall a well put together \nalbum. Proud to say that I survived the Rodeo "
+  },
+  {
+     text:"Great album This album has a real Yeezy feel to it. It reminds me of 808s & Heartbreak \nand My beautiful Dark Twisted Fantasy with a little Yeezus mixed in. His \nflow is good and the features fit perfectly. "
+  },
+  {
+     text:"Trash Highly dissapointed. If you were hyped about this and expecting a good \nalbum, do not buy this "
+  },
+  {
+     text:"La Flame Don't Play No Games When this album comes out, it'll be straight fire. Rodeo Season!! "
+  },
+  {
+     text:"Amazing album Probably one of the greatest albums of 2015 really lived up to the hype \nTravis Scott truly is insane hopefully you survive the rodeo "
+  },
+  {
+     text:"STRAIGHT UP best album of 2015, already heard about half of the songs and \nwas impressed. LA Flame is about to take OVER "
+  },
+  {
+     text:"1 song missing Maria I'm drunk is not on the google play app, like as in i pay the \nmonthly subscription and i have the album and this song isent in there "
+  },
+  {
+     text:"The new rnb full of autotune and trashy lyrics. the only song that stuck out was pornography. Rest is trash "
+  },
+  {
+     text:"It's good A few bangers like on this side. Antidote and Maria I'm drunk. "
+  },
+  {
+     text:"LA FLAME Somebody needs to call the damn Ambalamb for this shit. Straight Up \nFlexing on these hoes. Repping that 3:16 "
+  },
+  {
+     text:"Rodeo season Heard all the songs, best complete album I've heard in a long time \nstraight up "
+  },
+  {
+     text:"It$ lit Rodeo album of the year shits so tight ! "
+  },
+  {
+     text:"Fire This album is amazing. No words can explain how suprised I am "
+  },
+  {
+     text:"Great album For those of you who don't know, this already leaked and is amazing "
+  },
+  {
+     text:"Rodeo When someone says It's crap but it ain't even out yet "
+  },
+  {
+     text:"Possessive This music does something to me internally "
+  },
+  {
+     text:"My favorite song is Maria I'm Drunk "
+  },
+  {
+     text:"Loved it Definitely is one of the most unique albums this year. If your appreciate \nmusic on a artistic level you will be happy you found this album "
+  },
+  {
+     text:"La Flame H town's HOTTEST artist, i love that boy. Puttin on for tha city. "
+  },
+  {
+     text:"Jac Turned Scott... AOTY...NO DOUBT ABOUT IT. "
+  },
+  {
+     text:"Only reason it's 2 stars and not 1 star bc he's from H- Town and so am I "
+  },
+  {
+     text:"Pretty rowdy not gonna lie "
+  },
+  {
+     text:"Crap Old School is better. Do people even still pay for music. "
+  },
+  {
+     text:"Pretty good. This is my first time listening to Travis Scott and im impressed. Don't \nsleep on my nigga . "
+  }]

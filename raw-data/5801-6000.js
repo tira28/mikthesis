@@ -1,0 +1,601 @@
+module.exports = [
+  {
+     text:"George straight MP3 "
+  },
+  {
+     text:"Newest. CD Love George. Strait and all his music "
+  },
+  {
+     text:"Love it Another great album by the king of Country Music "
+  },
+  {
+     text:"A Perfect Strait He never disappounts! "
+  },
+  {
+     text:"King George The King can do no wrong "
+  },
+  {
+     text:"George Strait This has to be one of George's best. "
+  },
+  {
+     text:"George strait....nuf' said "
+  },
+  {
+     text:"Love Anything George sings is AMAZING! "
+  },
+  {
+     text:"Still the Man "
+  },
+  {
+     text:"I am a beautiful person Huh? "
+  },
+  {
+     text:"The man never dissapoints!! "
+  },
+  {
+     text:"King George Great music "
+  },
+  {
+     text:"George Strait Awesome Album "
+  },
+  {
+     text:"Love it Love all of his music "
+  },
+  {
+     text:"Good music. Bad politics. "
+  },
+  {
+     text:"Henley is back! Henley country is the perfect blend. A good part of the eagles best music \nwas countrified anyway, right? "
+  },
+  {
+     text:"don henley no thank you "
+  },
+  {
+     text:"A great album from a true musical legend "
+  },
+  {
+     text:"Don Henley He sounds amazing!! Ageless and priceless music!! ♡♡♡♡ "
+  },
+  {
+     text:"Don Henley Awesome love it "
+  },
+  {
+     text:"Cass county Superb as always "
+  },
+  {
+     text:"Awesome! "
+  },
+  {
+     text:"Awesome "
+  },
+  {
+     text:"Awesome! Love the song \"stolen dance\" :) "
+  },
+  {
+     text:"In love I'm in love with Stunner, Flashed Junk Mind and Stolen Dance I love love \nlove it! "
+  },
+  {
+     text:"Stolen dance is totes the best one out of these "
+  },
+  {
+     text:"I'm madly in love with this album "
+  },
+  {
+     text:"Savage album :-) "
+  },
+  {
+     text:"Love it "
+  },
+  {
+     text:"It's perfect, and Kacey Musgraves is such an incredibly talented artist. \nThis music just sounds 'American', it's sincere, it comes from her heart \nand it isn't made for commercial success and that's what makes it special \nand rare. Every single song on here is a win. She writes music that has \nsomething to say about society, but she does it in an incredibly \nintelligent way and that's so rare. "
+  },
+  {
+     text:"Kacey Musgraves, will you please just marry me. I've fallen in love with your music. This album is absolutely amazing. \nEach song speaks to me in a different way. It's brilliant. Keep up the \namazing work beautiful!! "
+  },
+  {
+     text:"BEST COUNTRY ALBUM I OWN! Seriously, this album is pure gold. Her lyrical style is clever, creative, \nwitty, and relatable from track to track. If you liked \"Same Trailer \nDifferent Park\" you will love this album! I can't stop listening to this \nalbum. "
+  },
+  {
+     text:"Yes! I've fallen in love with Kacey music since she first started. I look \nforward to many more awesome tracks! "
+  },
+  {
+     text:"Absolutely Awesome!!! Her voice is so mesmerizing. Breathing a fresh breath of country in a time \nof popraprock crap on the country radios today. "
+  },
+  {
+     text:"Amazing I love every song. Kacey Musgraves couldn't have made it any better. The \nbest album ever created. "
+  },
+  {
+     text:"Pageant Material One of the best albums of the year in my opinion. Every track really good, \nI am not surprised it has had such good reviews "
+  },
+  {
+     text:"Amazing This album is all the music I didn't know I needed. Even if you're not a \ncountry music fan download this. You won't regret it! "
+  },
+  {
+     text:"Reminds me of Mandy Moore's last two albums. Some poignant, some hysterical. Nice music. "
+  },
+  {
+     text:"This album is musical Sunshine This is a fun, soulful, and refreshing country album. Staying true to a \ngenre while infusing her own style. Smart writing and a nice sound to go \nwith it. "
+  },
+  {
+     text:"Please keep the style you are doing We don't want another Taylor Swift "
+  },
+  {
+     text:"Quit erasing my stars Now when I push that summit thingy it goes A way. FIX PLEAS "
+  },
+  {
+     text:"Perfection Greatest female country album in the last 10 years. Actually, male or \nfemale. The writing is unlike anything you hear on the radio. And she's not \nyelling at the top of her lungs. She's singing. "
+  },
+  {
+     text:"Country music gold! Actual county music!! I am obsessed with her sound. "
+  },
+  {
+     text:"I don't even like country ;-) Refreshing country tunes with a (very welcome) smart edge. "
+  },
+  {
+     text:"I wish every country singer out there today would listen to this album to \nknow how to do Country Music in this day and time. "
+  },
+  {
+     text:"Pure country Love her...and it not pop ..it's actually country "
+  },
+  {
+     text:"True country music at it's heart. My favorite album of the year so far. "
+  },
+  {
+     text:"Kasey Musgraves Love, Love, Love her! Amazing song writter, Amazing voice, chill \npersonality, would love to hang out with her! "
+  },
+  {
+     text:"So catchy! Kacey is a brilliant songwriter. I love the story-like flow and meaning \nbehind her songs. "
+  },
+  {
+     text:"Scary good Its like that lauren hill song. She took pages from my diary and put them \ninto songs. "
+  },
+  {
+     text:"I'll be playing this album on repeat allllll day for at least the next \nmonth prob longer. It's that good. "
+  },
+  {
+     text:"I love Kacey's sound, and all of her songs sound like they are all felt \nfrom the heart. Love it "
+  },
+  {
+     text:"The princess had a prime Alejandra "
+  },
+  {
+     text:"Love her. Great voice and song writing! Can't stop listening to it! "
+  },
+  {
+     text:"Pageant Material Really excellent album, stunning voice, fun lyrics also. Great buy! "
+  },
+  {
+     text:"Epic Always have liked me some Kacey Musgraves ... Love this album "
+  },
+  {
+     text:"Love it Grammy award winning Kacey Musgraves did not dissapoint with her sophomore \nalbum!! Love it "
+  },
+  {
+     text:"This is the hi Beverly to the party way to the party with you "
+  },
+  {
+     text:"Love! Love every song she has! Such a great album. Love all her quirky lyrics! "
+  },
+  {
+     text:"Love her! Kacey sings passionately and beautifully. Her lyrics are relatable and \nclever! "
+  },
+  {
+     text:"Fun album. She put on a great show at Bonnaroo 2015 as well. She will be \naround for a while. "
+  },
+  {
+     text:"Love Kacey since day 1 A masterpiece enough said. "
+  },
+  {
+     text:"Somebody to Love Ugh can't get enough of this album "
+  },
+  {
+     text:"Great Artist This artist just keeps getting better with experience. "
+  },
+  {
+     text:"I don't like country music. But I love this album. Classic. "
+  },
+  {
+     text:"Loved it! I love Kacey Musgraves. She is awesome "
+  },
+  {
+     text:"Fun tumes Old time country fun with a modern tude "
+  },
+  {
+     text:"اهنگخیلی باحاله"
+  },
+  {
+     text:"Country Music ok "
+  },
+  {
+     text:"Unsurpassable? I was about 11 when I first heard this album and it's one or the albums I \nstill regularly listen to today. Other albums come and go, but this one is \nnever getting old. RIP Cliff, immortal through song \\m/ "
+  },
+  {
+     text:"Master Of Puppets RIP Cliff Burton. 'Master of Puppets' is simply the anthem of thrash \nmetal. It's a shame the production was so sh*t that the bass line could \nnever be heard... But then again Bob Rock didnt do much better by turning \nthem into Bon Jovi with the 'black' album... "
+  },
+  {
+     text:"Love it Kids these days listen to pop and this is my reaction me: WHAT THE HELL IS \nTHIS CRAP!?! idiot who listens to pop: it's music me: playing one string \nduring the entire song is not music... Metallica is music idiot who listens \nto pop: what about call me maybe me:(thinking to myself) you better f###ing \nbe joking (what I say) go listen to some guns'n'roses "
+  },
+  {
+     text:"Backdrop of the 80's For the longest time I've thought of Metallica as a mainstream heavy metal \nband that was mainly a phenomenon of the 90's because their Black Album is \nwhat is always played on the radio. I was aware they had a back catalogue \nreaching into the 80's, but I had no idea they had such a seminal influence \non heavy metal in that period. Probably much of the heavy metal I heard \nothers listen to in the 80's was from this album - I just never realized, \nuntil now! "
+  },
+  {
+     text:"Metallica at its best In my opinion their best album by far. Master of Puppets is the album that \nhelped change Speed/Thrash Metal and made Metallica one of the big four \nalong with Megadeath, Anthrax and Slayer. Master of Puppets, Battery and \nDisposable Heros are fan favourites and all over tracks keep the album nice \nand ballanced. This album is on top of their top 3 along with The Black \nAlbum and Death Magnetic, respectivly "
+  },
+  {
+     text:"Masters of puppets An absolute classic must have I think there best album ever but \nunfortunately the last with cliff (rip).but credit to the remaining members \nfor continuing to make millions of people. Happy. "
+  },
+  {
+     text:"Superb This album along with and justice for all are Metallica at their best. \nJust a shame that the bass line can't be heard on both albums "
+  },
+  {
+     text:"Come crawling faster ! Obey your master. Your life burns faster. Obey your master. Master! Master \nof the puppets I'm pulling your stings ! "
+  },
+  {
+     text:"Finest metal album ever I loved it when growing up and still listen to it now never get tired of \nit.....work of art!!! "
+  },
+  {
+     text:"Astonishing Words cannot really describe what this album means to metal music. One of \nthe most influencing group created one of the most influencing album in \nmetal history. It should be among the top 50 metal albums ever created. "
+  },
+  {
+     text:"The pinnacle of metal 1986 was the best year for metal music. This album is at the forefront of \nthe best of the best. Love it! "
+  },
+  {
+     text:"Apparently this is Pop One of my favourite Metallica albums. Loving that play store has its genre \nlisted as pop. Lol "
+  },
+  {
+     text:"Keith Best metal album ever. Possibly the best piece of guitar work and \nproduction methodology of the 80's. Anyone who likes metal/ rock from any \nera needs to get this album. "
+  },
+  {
+     text:"The greatest, heaviest Metallica album ever. My all time favourite. Every \nsingle is absolute gold. "
+  },
+  {
+     text:"My favorite metallica album no bands could beat this album but Sadly best \nbass player ever cliff Burtons last album "
+  },
+  {
+     text:"Master of metals albums Suatu hari di Dunia Fantasi, sedang berlangsung kontes musik metal. Master \nof puppets jadi lagu wajib yg mesti dimainkan. Saat itu, saya msh kelas 6 \nsd, tahun 1987. Sementara temen2 asyik naik wahana, saya nongkrong di depan \npanggung hanya untuk menyaksikan MOP dimainkan lagi dan lagi... "
+  },
+  {
+     text:"Completely Overated Though Fantastic album but Ride the Lightning is a way better album. "
+  },
+  {
+     text:"None needed! If you love metal or thrash buy this NOW! "
+  },
+  {
+     text:"Great One of Metallica's best if not the best "
+  },
+  {
+     text:"Best album ever You can't beat classic Metallica for power and great songs, and this album \nwas the best of the lot. "
+  },
+  {
+     text:"Incredible album This and ...and justice for all are best metallica albums,i mean some of \nthe best albums i ever heard "
+  },
+  {
+     text:"Great album Classic album. Strange that it's rated as pop. "
+  },
+  {
+     text:"Master of Puppets The lead track is the Epitome of Metal. "
+  },
+  {
+     text:"The self titled track to this recording is like the song describes a \nmasterpiece. Still no.1 "
+  },
+  {
+     text:"No1. Metall Album Of All Time "
+  },
+  {
+     text:"One of the master pieces of the Rock History "
+  },
+  {
+     text:"Buy now!!!!! Are you listening loud? "
+  },
+  {
+     text:"Metallica's finest album. Love every song. Let's hope the new album is as \ngood "
+  },
+  {
+     text:"Metallica/songs;Master YouTube/music 2016. "
+  },
+  {
+     text:"Epic No need, just buy it. "
+  },
+  {
+     text:"METALLICA - LEGEND'S OF METAL "
+  },
+  {
+     text:"Amazing I think this is one of the best album that Metallica has. That‘s it. "
+  },
+  {
+     text:"Awesome Best metal thing ever "
+  },
+  {
+     text:"Why is this album classified as \"Pop\"? "
+  },
+  {
+     text:"Master Of puppets "
+  },
+  {
+     text:"Metallica Master of puppets "
+  },
+  {
+     text:"MASTER MASTER!! Definitely One of my Favourite Metallica Album's "
+  },
+  {
+     text:"Master of puppets A real classic from a legendary band "
+  },
+  {
+     text:"Iron maiden is better just get their album "
+  },
+  {
+     text:"Wow! "
+  },
+  {
+     text:"Pink Floyd - dark side of the moon A wonderful enlightenment to the mellow side of music. Kick back relax \nturn up your stereo. Enjoy this work off art. Play once & you will like. \nPlay again you will begin to be drawn in. Keep playing then you realise \nthis release is a true masterpiece for everyone to enjoy. If you like Led \nZeppelin - going to California . You will need to purchase this too. \nHarmonious heaven. Enjoy. "
+  },
+  {
+     text:"Sweet! Their best by far! wow! This is crazy, especially since I've been looking at Pink Floyd's \nmusic trying to decide who had the better price. Ha! You guys made that \nchoice and this is the album I wanted. Every album and CD of theirs I've \nowned has sprouted legs and disappeared. This one will be mind forever! "
+  },
+  {
+     text:"To the obvious minimal \"Anything below 5 *'s\" You must be a child. Therefore since the actual music and actual art \nsounds so good that it scares the diapers off of you then yeah I \nunderstand. But learn something about art in its true form. The best of the \nbest is here. Its Pink Floyd ...I need not say more. I'm a musician. 30 out \nof my 41 years of age. Though I listen to much more subtle than my younger \nage I never since my mom played the wall when I was 4 and first heard it I \nsang it everywhere. School is out. Peace! From your teacher:-) "
+  },
+  {
+     text:"A modern classic I don't know of any other album that has stood up to the test of time (see \nwhat I did there?) more than The Dark Side of the Moon. Though it was \nreleased in 1973, it was still relevant in the 90's, when I was a teenager, \nand still is today. Very few artists can match the level of musicianship \nthat went into crafting these songs. I for see this album still being \nplayed hundreds of years from now. And if the band you're in starts playing \ndifferent tunes, I'll see you on the dark side of the moon. "
+  },
+  {
+     text:"Great, but Pink Floyd's Best? For the longest time, this was in my favorite Pink Floyd album, and in my \ntop 10. I've found an album by them I prefer, and this one isn't in my top \n10 anymore, but it is still a great album for sure. The instrumentals don't \ndo much outside the album, but songs like Breathe, Time, Money and Us And \nThem are among the Floyd's best. Iv'e always found Great Gig and Brain \nDamage overrated, but the album still deserves to be called one of the best \nof all time. "
+  },
+  {
+     text:"Good Old Days Back in 73, when I graduated high school, this album had just come out. \nThe student addressing the crowd used lyrics from some of these songs at \ncommencement. \"10 years have gone by, I missed the starting gun\",,, stuff \nlike that. I didnt have any nice stereo equipment back then so I never \nreally heard this Album like Im hearing it today,, AWESOME ! "
+  },
+  {
+     text:"THE FIRST TIME IN a few days. I have time to Listen to Some Great Music and \nRelax A little bit of time? Some things you should have to Listen to it The wall and Dark side of the \nmoon! Are some really good Tune's! includes my Opinion! :-) Thank you! "
+  },
+  {
+     text:"Good stuff Their first huge hit album. I prefer the whimsy of wish you were here \nbut..how can 50 million listeners be wrong..dark sides back k catalogue \nI.e. releases previous to the moon are like obscure demos meets elaborate \nintellectual aural excursions. Hearing them ALL is on the list of things to \ndo before you die! "
+  },
+  {
+     text:"The Dark Side Of The Moon Pink Floyd will always Be Relaxing & True To Your Soul music.Whenever, I \nhear 1 of their songs. I feel as though I'm free of living in this Over \nComplicated world 2015. The 70's & early 80's are Magical To Me. "
+  },
+  {
+     text:"Well tasty I listened to this on Telly and loved/liked it. Well good .. wont buy the \nwhole Album as I cant afford it but they deserve some money off me so I'll \nbuy just one track and thats got to be Us and them 7mins for 99p is a great \nvalue ratio. Far better than Bieber or Aguilera where you are likely, at \nbest, to get 4 mins for 99p. Be better if they gave a digital download to \nall those who give up the original album/Cassette. And free artwork , yus, \nyus,free artwork, to anybody who has farted Pie'n'Eels within looking \ndistance Of Battersea Power station. "
+  },
+  {
+     text:"Amazing Album this album is meant to be listened all the way through in one sitting. \nWell... all their albums are pretty much that way, but hands down one of \nthe best music pieces ever created. I cant believe I missed the .99cent \nsell :(( "
+  },
+  {
+     text:"Dark side of the moon Great electronic and synthesizers sounds. Back in the 1970s, Pink Floyd \nwas a rock band with progressive sounds and great lyrics. Money, time, \nshine on you... are great songs and good examples of what I'm talking \nabout. I will never get tired of listening Pink's dark side album songs. "
+  },
+  {
+     text:"All time favourite album I'm a huge metal head but Pink Floyd is my all time favourite band and \nthis my my favourite album. I get chills throughout the album. David \nGilmour's guitar work is unmatched. You can tell that the whole band had a \ncreative opinion during creation of it and not controlled by Rogers. "
+  },
+  {
+     text:"To Those Who Put One Star You're entitled to your own opinion and I respect your opinion, but I \nstill hope you die a very long and painful death. Like swimming through a \npool of tabasco sauce and razor blades. Or dying of lack of oxygen in The \nDark Side Of The Moon, or any side of the moon. "
+  },
+  {
+     text:"WOW!! OMG only .99¢ today I can't believe I got one of the great albums of all time for $0.99 today \nI had actually forgot about this album until I saw it advertised in the \nother day instantly brought back great memories and I need the music was \ngood without even listening to it again. Now I'm listening to it in a way I \nnever was able to back in the 70's as a teenager "
+  },
+  {
+     text:"Number 1 If we were to represent humanity as a whole with a single album, this \nwould be the album. Was on the charts for 15 years straight, fell off and \ncame right back on. Musical perfection. "
+  },
+  {
+     text:"A flawless recording! Not only incredibly textured in its production but don't forget, this was \ndone before the digitalization of keyboards, so all the layers are looped \nbasically manually. Check out the documentary on the recording with \ncomments by the band members. Pink Floyd stand alone! "
+  },
+  {
+     text:"THE GREAT PINK FLOYD I tripped to it many times, including their concert,Wheeling, WV. Syd \nBarrett,1st of the founding members, 1st guitarist for Pink Floyd and also \nis the father of the light shows, crazy guitar and keyboard sounds that you \nhear today, Roger Waters went crazy just like Syd did but not to Syd's \nextreme. Roger thought the group was his and they argued a lot for DSOTM \nand The Wall. Roger doesn't like people, hence, The Wall. The Wall was a \nlittle about Syd and a lot about him (Roger). Wish You Were Here was Syd. "
+  },
+  {
+     text:"Greatest album Unfortunately Google music player does not support gapless play mode. The \nalbum was designed to play gaplessly as in the phono LP. The silent gaps \nintroduced by the player at the wrong spot ruin the album. Google, please \nadd gapless mode option to the player. "
+  },
+  {
+     text:"Awesome album from one of the greatest bands! Only $0.99 for today, had to jump on it. The whiney kids who were raised \non bubblegum pop and don't know what good music is can safely be ignored. "
+  },
+  {
+     text:"Another great pink Floyd album especially the 2 tracks at the end, brain \ndamage/eclipse but not their best. This is looked at to be one of the best \nalbums of all time and I don't think it matches up with reviews. Still \nnothing wrong with it but I'd take The Wall any day of the week over this "
+  },
+  {
+     text:"Any Colour You Like With the release of DSOTM, Pink Floyd hit the big time, and really began \nto mature. Dealing with themes of greed and madness, this is widely hailed \nas one of the best albums of all time. It's got something for every body. "
+  },
+  {
+     text:"Pink Floyd I'm over joyed They have their own unique sound. Next to The Wall album they did this is \nright up there at the top. I have the CD I've played it so much. I never \nget tired of it. "
+  },
+  {
+     text:"One of the best albums ever I orginally thought this was going to be less experimental then albums \nlike Atom Mother Heart and Meddle and be more cathered to radio. While it's \nnot as experimental as those two albums it's easily as amazing if not \nbetter then them. I loved Dark Side Of The Moon from start to finish. If \nyou've never heard a Pink Floyd album please do me a favor and purchase. \nAnd especially since it's only 99 cents for now. It'll be the best 99 cents \never spent. "
+  },
+  {
+     text:"A Masterpiece I'm usually not one to like classic rock, but this is definitely one of my \nfavorite albums of all time. The way it talks about life in general, rather \nthan ones own personal life is amazingly well executed. "
+  },
+  {
+     text:"Love Pink Floyd, hate Google Music I bought this album when I saw it on sale. Should have known that Google \nonly has streaming services instead of a service that downloads to your \ndevice. Ridiculous. "
+  },
+  {
+     text:"Best The best album I have ever listened to. I'm 14 years old and I appreciate \ngood music, better than all the garbage on the radio today. I own hard \ncopies of Sgt pepper's the white album and all of led zepplin and the rest \nof pink Floyd and this is the best "
+  },
+  {
+     text:"DSOTM Don't need to buy it because I already have it, but thought I'd recommend \nThe Wall and Meddle. Two other great Floyd albums :) "
+  },
+  {
+     text:"I dont want to be that guy, but... I honestly don't see how people can like this so much. Now don't get me \nwrong, I didn't hate this, but for the album to get 4.9 stars... That \namazes me. It's OK. "
+  },
+  {
+     text:"Absolutely in the top full albums, all genres borrow/bene. from, changed my \nlife. Absolutely the best all around in about every way, still the only album \nthat I will not play unlessits start to end, load with good surround sound, \nfor their full effect, feel like its to be listened to from 0.00 to the \nend, and if ever possible, bust out wizard of oz(set up dark side of the of \nthe rainbow), lil psychedelics, once in a while, not always! as i feel it \ntakes away from your audio appreciation, making it more of a 3/4 visual \nratio. Plus it doesn't do too well on "
+  },
+  {
+     text:"Awesome band! I fell in love with Pink Floyd back in the 70's, and though I never had \nthe chance to see them live, they have been a part of my daily music since. "
+  },
+  {
+     text:"Very good so mush heart Well sorry you don't like good music. It's probley older than you . So \nBorden your mind you mite learn something good... "
+  },
+  {
+     text:"Time and the white light splitting. I know just how old this album is. Its held up way better than I have. And \nby the way, they are all pink, but that's later. "
+  },
+  {
+     text:"Dark side...... Fires up deep seated emotions. I'm not convinced that Dark side of the \nMoon is their most haunting work,whilst personally I think that accolade \nshould possibly go to Meddle and although Clarkson often rants about a \nparticular car(!)being say,Ferrari's'Dark side of the moon' car....I think \nmany would argue that \"The Wall\"deserves the top spot..well,it's overall a \nmarvel of musical elegance..with timeless appeal. "
+  },
+  {
+     text:"As classic as it gets Dark Side of the Moon is one of those rare albums -- alongside such works \nas Sgt Pepper, Fragile, Led Zep 4, Who's Next, Days of Future Passed, and A \nNight at the Opera -- that not only defined the phrases \"classic rock\" and \n\"progressive rock\", they shaped the rock music landscape for years (even \ndecades) to come. For $.99, if you don't already own this musical landmark, \nyou no longer have any reason to live in shame. "
+  },
+  {
+     text:"Mark Andrews One of the best bands on the planet if not THE best. This album is a \nclassic and their best work in the early years and deserves a place in ANY \nmusic collection. "
+  },
+  {
+     text:"This album makes me cry I love this sound! Always I listen this album emotions take myself and I \nfeel that the world is falling trought myself... I can't explain what kind \nof emotions I taste... "
+  },
+  {
+     text:"Best album bar none All time classic album 10 times better than anything the Beatles did, \nevery track a masterpiece. Can't believe over 40 years old. "
+  },
+  {
+     text:"R U kidding? Quite possibly one of the top 3 rock albums of all time. It's definitely \none of those \"where were you when this came out\" records. And at $.99? Duh. "
+  },
+  {
+     text:"Best concert too This is one of my favorite albums. I'm 34. & out of the many concerts I \nwent to when I was younger, this one was my favorite! (Note:this is not a \nlive albumb, I was just saying in reference to when its songs where topping \nthe charts, the related concert around that time was also great!) If you \nlove ANY classic rock this is a must own for your library. Its also \nrelaxing, in my point of view. Ahead of its time instrumental ;-) "
+  },
+  {
+     text:"A modern classic! Now usually, my playlist consists of a heady mix of various rock and metal \nartists, but what I do appreciate is real music with true soul, and this \nalbum is no exception. Lana's voice sounds and feels like whiskey soaked \nsilk and she is unashamedly brutal, whilst still managing to maintain an \nair of athearal elegance! If you've not heard this album yet, you \nabsolutely should! 10 stars if I could, would recommend!! "
+  },
+  {
+     text:"Great album This is probably my favourite album from 2014, stand out tracks are: 1 to \n5 and The Other Woman. I thought West Coast was a weak single but in the \ncontext of the whole album it works well. I much prefer this one to Born to \nDie. It would have been great if they included the song from Maleficent \nhere too. "
+  },
+  {
+     text:"lana del la Reina she is the queen, her words penetrate deeper than truth. love her music. \nold money lol sounds like she starts out singing Romeo and juliet theme \nsong. old money ? as in the capulets etc? lol . good one. or maybe i just \nhave a fine tuned ear either way.. shes a genius. "
+  },
+  {
+     text:"Unexpected I don't listen to Lana, i have only heard the Summertime Sadness Cedric \nGervais remix. I thought that the production was great. My favorites were \nUltraviolence, Cruel World, West Coast, Brooklyn Baby, and Shades of Cool. \nWhile it wasn't the conventional upbeat tempo of most of the songs I listen \nto, the album distinguishes itself from others, making it an interesting \nlistening experience. Well done. "
+  },
+  {
+     text:"Spectacular This album brings much more to ponder on unlike her previous work. Lana \nout does herself for sure but many say that the album's songs are boring or \ndull. I think otherwise, the story each song tells ultimately weaves \ntogether with all of her other song's stories to recreate the painting that \nis Lizzy Grant's life from her rise to fame to even jer downfalls. Overall, \nthe album delivers in every way possible, highly recommend to anyone who \nwants to sit and think or just sing along. "
+  },
+  {
+     text:"MYSTIC I could listen to this on repeat forever. Although, it did have some \nworrying domestic violence glorifying lyrics - \"...he hit me and it felt \nlike a kiss...\" I think her voice is amazing and she's maturing as an \nartist. That said, I illegally downloaded the entire thing. "
+  },
+  {
+     text:"Sorry I will try to forget this album even exists because I love her so much. \nBut I couldn't find even one song on this album that I liked enough to play \nall the way through. Too slow and depressing in a pitiful way, not a \nromanticized depression like her old songs. "
+  },
+  {
+     text:"Lana is The queen She is like a goddess with an angel given voice. I want that album so bad! \n❤❤❤❤ As i said Nobody can get better than Lana and her incredible powerful \nglorious songs! "
+  },
+  {
+     text:"I thought she was overrated until I heard this album Now I completely regret saying I ever though that about her. The first \nsong I heard off this album was \"Brooklyn Baby\" and I felt something I had \nnot felt in a VERY long time from any music I've heard. You can hear so \nmuch emotion in her voice...it is just so beautiful and haunting at the \nsame time. Lana is the artist of this generation, she has elegance and \nstyle that goes way and beyond any current artists. There's no match to \nthis lady ♡ "
+  },
+  {
+     text:"The Goddess delivers!!!! I have been listening to Lana since Born To Die, and this by far is her \nbest album! Once I heard the leak of Black Beauty way back when and West \nCoast when she was at Coachella, I knew this album would be a hit. Anyways \nthis album truly deserves 5 stars because this is what she is meant to \nsing. If you are on the fence about getting this album, with all due \nrespect, you aren't a true Lana fan. "
+  },
+  {
+     text:"Love. Authentic and raw, she sings for other people, she sings their stories and \npassions. In this album she dropped the urbanish beats (used in BTD) and \nchanged styles as it becomes more soft rockish. Absolutely love her and her \nmusic. "
+  },
+  {
+     text:"Strange but awesome !! This Woman never ceases to amaze me with her sultry, raw, awe inspiring \nmusical talent and passion for life. A great \"relaxing\" effect whenever I \nlisten to her music. Peculiarly mesmerising & relieves the frustrations and \nstress of the rush hour drive. "
+  },
+  {
+     text:"Loving the Ultraviolence era Well done to Lana, the only original artist out there! She has blown me \naway! Ignore the critics. She deserves every grammy/award "
+  },
+  {
+     text:"Listened for hours with my girl. We played one of her albums woke Chillin' and grillin' on the deck. Good \ntimes! "
+  },
+  {
+     text:"Lana slays once again The album is amazing, each and every song is amazingly strong too. I loved \nBorn To Die, but Ultraviolence is even better "
+  },
+  {
+     text:"Lana does it again Lana includes a song for every mood and emotion, her voice is perfect. My \nfaves are Old Money and Shades of Cool. Not ashamed to say I cried \nthroughout several songs. My fave artist of all time. "
+  },
+  {
+     text:"Lana del Ray Lana del Ray takes you on a sonic ride through a complicated tapestry of \nlove, sex, exploitation, envy and violence. Her voice drips over the \nswirling production of Black Keys master guitarist Dan Aurbach. All this \nwhile being made in Nashville during Mr Aurbach's divorce. Lana ' s lush \nvoice is the perfect backdrop for her tales of unalarmed pathos. She is the \nfemale Nero crooning while her world burns down. Her and Aurbach elevate \nthis effort to an immensely more sophisticated place than Born to Di "
+  },
+  {
+     text:"Slaying Once Again Lana makes another great album that is filled with brilliant songs. My \npersonal favorites are West Coast, Ultraviolence, and Brooklyn Baby. This \nis a fantastic album, I highly recommend! "
+  },
+  {
+     text:"Love lana but not Google music I bought an album here one time just to find out that I can't download it \nto my computer. You basically own the album to be able to stream it with \nGoogle music. Ridiculous "
+  },
+  {
+     text:"Sadcore prom One of the things I really dig about Lana Del Rey besides her being an \nextremely sexy and pouty type chick, is that she re-creates this fifties \nsixties type vibe with her music, mixing into the new millennia sound and \nmakes it her own. She's not breaking any new ground but she's definitely \nmaking it fresh and sexy. And her lyrics are very clever dark funny and \nweird. Keep doing your thing woman your doing it good! "
+  },
+  {
+     text:"LANA DEL SLAY HAS DONE IT AGAIN! The album is great, every song is brilliant, and is definitely worth the \npurchase. My favourite songs on the album are Florida Kilos, Brooklyn Baby \nand Cruel World. "
+  },
+  {
+     text:"Ultraviolence LP Ultraviolence is an outstanding, melancholy, and beautiful 2nd record with \nhaunting songs like 'cruel world' 'pretty when you cry' and \n'ultraviolence'. Although if you really want good sound, then support your \nlocal record shop by purchasing the vinyl. Vinyl is always better than \ndownload ✌ "
+  },
+  {
+     text:"This should of win grammy So many artists had this album in their list of best albums of the year, \nfrom heavy metal to country but it doesn't win the Grammy what?? "
+  },
+  {
+     text:"Haters gonna hate Lana can sing. She can sing live, its not auto tune. She has talent so get \nover it, BEAUTIFUL ALBUM "
+  },
+  {
+     text:"Q U E E N O F S L A Y I loved paradise / born to die and this album is amazing! I listen to a \nlot of bands and this album is my favourite by far! If you do like Lana a \nlot, then I would buy with out a doubt; however this album , as some people \nwould say, is \"more misserable \" ... But it's amazing, it just depends what \nyou like "
+  },
+  {
+     text:"Wow Literally every song on this album is amazing. Personal favourites are \nultraviolence, brooklyn baby, west coast and pale moonlight. Ah heck, \nthey're all my favourite! "
+  },
+  {
+     text:"Excellent Album Was kind of scared when some paper reviews said things like \"new sound \" \nto this album, there is slightly on certain tracks musically but the whole \nalbum is still very much Lana all over. Love it! "
+  },
+  {
+     text:"Amazing! Didnt think she could do better than Born to Die but she has nailed it. \nCant stop listening "
+  },
+  {
+     text:"Brilliant Lana Del Rey does not disappoint. Such emotional, dark, beautiful songs. \nMy personal favorites are The Other Women, Pretty When You Cry, and Cruel \nWorld. "
+  },
+  {
+     text:"Words can't even explain (: This album is one of her best! She's the best, I truly love Lana Del Rey<3 \nShe's original, and every song she sings has emotion and a message to it. \nThat's a true artist + the queen! "
+  },
+  {
+     text:"Not great I loved her first album and her songs on YouTube that were never published \nbut this just wasn't as good as they were. "
+  },
+  {
+     text:"AMAZING SHES AN ANGEL HER VOICE IS HEAVENLY. HER MUSIC MAKES YOU FEEL HER PAIN AND \nITS JUST AMAZING FLAT OUT! "
+  },
+  {
+     text:"Lana sucks. She sings good. Just can't stand mainstream bs. Listen to Of Mice & Men. \nThat's where its at. "
+  },
+  {
+     text:"BUY IT NOW Best fuckin album ive ever listened to. I CANT SKIP ANY SONGS ON THIS \nALBUM!!! Literally I enjoy listening to all of these songs. Definately a \nmust buy. Such a beautiful voice and unique talent. "
+  },
+  {
+     text:"Awesome. Too bad Google won't let me download it again, even though I paid \nfor it. See title. Love the album. Play music sucks. "
+  },
+  {
+     text:"Beautiful & Mesmerising The Woman Is A Goddess with Vocals that really draw you in and make you \nget lost in her music "
+  },
+  {
+     text:"One of the few who still makes meaningful music. Nowadays that's hard to \ncome by.. far and few between! This album (as well as her others) deserves \nmany awards, I don't know what they were thinking... "
+  },
+  {
+     text:"Fantastic artist Love Lana and love this price, my wife paid £10.99 on iTunes; a mere £4.99 \non Play worth every penny! "
+  },
+  {
+     text:"You've done it again, Lana. As expected, this album was perfection. Although not as good as Born To \nDie, its absolutely incredible and definitely worth buying. Can't wait for \nthe tour. "
+  },
+  {
+     text:"This is the standard This album reminds me of the greatest bands of the 90's with vibes of the \n70's turned into something new and original. Its just the best album I've \never heard, yes that's a strong statement and i stand by it. Love me some \nLana "
+  },
+  {
+     text:"King of Country !! So proud to say that my 15 yr old daughter and I were 2 of the very lucky \nfans in That Att Stadium the Night that The Cowboy Rode Away.. Very \nemotional night for me... No other singer will ever reach the height in my \nheart like None other Than The King of Country... Mr. George Strait... "
+  },
+  {
+     text:"Fool hearted memory George Straight has always been a number 1 song writer/performer. I can \nrelate 2 a lot of his songs. "
+  },
+  {
+     text:"George strait is my favorite singer by far. Except they jacked up ocean \nfront property and it sounds terrible "
+  },
+  {
+     text:"The Best Ever Cried so many times when I saw him in Vegas. Just watched Cowboy Rides \nAway on CMT. Cried again. So good. Miss you George. "
+  },
+  {
+     text:"George Strait - The Cowboy Rides Away: Live From AT&T Stadium King George shares performances from some of his greatest hits on what is \nthe last concert from his last tour breaking records along the way for the \nmost people attending an indoor arena concert. "
+  },
+  {
+     text:"What a night!! Amazing so glad I was one of the lucky people to be there! Still get goose \nbumps when I hear him sing cowboy rides away "
+  },
+  {
+     text:"The cowboy rides away George Strait's last concert. A tear jerker. Loved the performance! "
+  },
+  {
+     text:"The Cowboy Rides Away Run is my favorite song on this album! I love all of your music. You are \ntruly one of the greatest artist to come along. Thank you! "
+  },
+  {
+     text:"The cowboy rides away. I got goose bumps on Martina Del Ray..must have! "
+  },
+  {
+     text:"cowboy Road Away this is a beautiful CD I was at the show and saw King of Country George \nStrait I am trying to download it on Google play "
+  },
+  {
+     text:"George Strait The Cowboy Rides Away : Live From AT&T Stadium Awesome no one loves good country music anymore The late great George \nStrait is the best "
+  }]

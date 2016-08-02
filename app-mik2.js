@@ -3,906 +3,1533 @@ var alchemy_language = watson.alchemy_language({
   api_key: '30045145d7bcb604a13abe46b086a7948bdf5c4f'
 });
 
-var URLS = [
+var URLS= [
   {
-     text:"Sounds Good...Feels Good I got this the day it came out and im in love with it! 5sos have come a \nlong way since when they were only playing for like 30 at most and now here \nthey are playing for 2000+ people! I went to a ROWYSO show with my best \nfriend and I will never forget that teenage memory[see what i did \nthere.lol] for as long as i live! My favoriates are Vaopr,Castaway,Broken \nHome,San Fransisco and Waste the Night! Im so gkad i have these 4 guys in \nmy life...they may not know me at all but they help me with a ton of \nthings! "
+     text:"The Cowboy Rides Away I don't have the words to say how great George Strait is. "
   },
   {
-     text:"I love 5sos I've been here since 2013 and never plan on leaving the boys. They are my \nSunshine's cliche but its true. Their albums just keep getting better and \nbetter!! "
+     text:"Love it but... I love Eric church too, and I bet it was a dream for him to play with \nGeorge. But honestly... This was Georges going away album. I don't think \nEric should have been in it. "
   },
   {
-     text:"Everything about this album is amazing 5 seconds of summer puts out an amazing vibe that will make you feel good. \nAll of these songs are completely beautiful and you can tell that they put \nso much work into their music. They try and make music that can relate to \ntheir fans and so far they did a really good jobs. Alot of these songs have \nso much emotion in them, I recommend invisible, catch fire, broke home, the \ngirl who crys wolf, and broken home. This album really shows,not how only \nthey grew as people but how they grew as song writers. "
+     text:"OMGoodness.... Amazing. I got to see him in concert in 2014 in Des Moines, IA and it was \nthe 1st time I could actually see his lips move while he sang....amazing \nman & music. "
   },
   {
-     text:"Im so excited! I love these boys to pieces! They have help me though so much and im so \nproud of them. I have watched them grow up and I just love them! The names \nare very interesting and I can wait to hear them! Im so proud of these 4 \ndorks "
+     text:"Keith Odom Mr.Strait is a very, Blessed singer, father and husband. Talenter beyond \nwords but, always down to earth kinda fella. "
   },
   {
-     text:":( I'm sad I don't get to listen to it since my parents wouldn't let me \npreorder or even buy the album.. but I know it's going to be amazing so \n5star anyway! :) "
+     text:"Ok Wasn't the best song selection for a going away party as big as George! \nHe's got a huge list of songs but come on.... Arkansas Dave to name a \nfew..... "
   },
   {
-     text:"I love it ... I love it even though I've only heard like 4 songs but yeah. And I also \ncan't listen to Jet black heart yet so MICHAEL, YOU ARE A LIAR "
+     text:"Too bad for Us He's gone, but hopefully he will return. "
   },
   {
-     text:"5SOS IS LYFE I can't wait for this album, it'll be a new sound to their normal stuff. \nSame them, just a little more powerful messages. Ashton said he's never \nbeen proud of anything else, so I know the boys love it as much as we will! \nCan't wait! Big fan, much love "
+     text:"Vince gill sounded like a robot that could've been left out "
   },
   {
-     text:"Amazing Im so glad I found these boys. They saved my life. I was going through a \nreally rough time and they where there to support me with there music. It \nmeans a lot to me. So I suggest you buy this album! "
+     text:"George Straight is the best There is no better singer then George Straight. He so handsome. "
   },
   {
-     text:"These four boys ❤ Can't believe its their second album already, just from what I've heard so \nfar I can tell this is going to be an amazing album. Love these four boys \nso much!!!! ❤ "
+     text:"None better It doesn't get any better than George Strait. "
   },
   {
-     text:"BUY THE SH*T OUT OF THIS ALBUm If you disagree, you are wrong. This album is golden. No doubt about it. \n*drops mic* "
+     text:"One of the BEST!!! Grew up listening to George, Merle, Willie, and the rest ( the best!) Sad \nI never got to see George in concert but gonna miss his song's for sure!! \nSuch a wonderful performer and a true to life cowboy!!!!!!!!!!!!!!! "
   },
   {
-     text:"I love 5sos!!!!!!!!! I have 3 different favorite songs and they are permanent vacation and jet \nblack heart and then money. I would have pre-ordered the album but I'm \nbroke and my mom probably wouldn't let me so. "
+     text:"Vintage Strait Sounding better than ever, George's final concert tracks are a must own! "
   },
   {
-     text:"Fly Away Can't wait! This album is going to be fantastic. Only problem - I thought \nFly Away was supposed to download if you pre-order the album... It hasn't \nhappened yet "
+     text:"King of country I love him and so dose my family and I love the song cowboys rides away no \none can sing country like George "
   },
   {
-     text:"OMFG! I cried! They r so talented. Its like all the problems I have the have \nwritten a song about. My heart. The feels. Michael's solos. Luke's solos. \nAshton's solos. Calum's solos. Wow. "
+     text:"Amazing! Love this more than words can describe! He did such an awesome job with \nthe set list for this last show! A must have for George fans!♡ "
   },
   {
-     text:"They have improved so much! They have grown up! I love them! They have \neither as much as made people laugh to big things like saving peoples \nlives! They have made me laugh smile and cry! There music is so amazing! \nThey have made me emotional from there music as well <3 I love them! "
+     text:"I love George strait He is a wonderful and the best performer ever I love the way he sounds "
   },
   {
-     text:"To:5 Seconds Of Summer I might never get the album but i hope i do but if i don't u guys should \nknow you are the best band in my life you guys are great at what u do just \nfollow your heart and do what is best for you thank u for becoming a band \nand never break up i will not knock on wood before i jinx it thank u guys \nfor everything i love you -Falisha xoxo "
+     text:"George Strait The Cowboy Rides Away Makes me smile and cry...... "
   },
   {
-     text:"I LOVE 5SOS theyre just great in general. i haven't bought sgfg yet, but i will \neventually. i love them so much i cant even explain it :-))) \n#weloveyoumichael "
+     text:"The King It doesn't get any better! "
   },
   {
-     text:"I'm screaming RIGHT NOW! Oh my GAWD YES, IT'S HERE AND I'M DEFINITELY GOING TO PRE ORDER IT FOR \nSURE! "
+     text:"George Strait The Cowboy Rides Away Live From AT&T Stadium Pure Awesomeness "
   },
   {
-     text:"I love them so much I can't even begin to explain how proud I am of these 4 boys, they've come \nso far and I can't be any happier. Keep conquering the world boys x "
+     text:"Amazing The cowboy rides away on a perfect note. Couldn't be better. "
   },
   {
-     text:"Album is Great - One Problem I pre-ordered the album and despite the e-mail I received, saying my order \nwas on hold, it still displayed that the album was available. I realized to \nlisten to it, I had to get the free trial subscription. Now, it says I have \nto buy it again. What happened? "
+     text:"The King of Country music Mr George straight doing all his classics in \nfront of a live audience. #Gotta luv George #Gotta luv Texas music #Gotta luv honky tonk "
   },
   {
-     text:"AMAZING But...... I feel so sorry for the people in the comments who don't have \nmoney on there phone to buy this I have a £25 voucher on my phone and £50 \non my ipod for my birthday I've got £110 and I've only spent £10 of it so \nomg I'm so lucky "
+     text:"Strait It don't get any better "
   },
   {
-     text:"Beautiful!! I loved this! Great melodies and beats you can dance to. Very sexy and \nfun! "
+     text:"GREAT This is one of the best country singersever. I saw this concert live and \nit was perfect "
   },
   {
-     text:"Love it I give her 5 stars because I love her and I love all her songs and its \namazing "
+     text:"Amazing show! I'm still crying. "
   },
   {
-     text:"ASAP The song with asap is just amazing. Asaps rap in it is class too! Wow "
+     text:"Amazing Will be sad when he passes but enjoying him while he is here. Love George \nStrait... "
   },
   {
-     text:"Can't keep my hands off this album, my hands off this album dun dun... ...I mean I could but why would I want to "
+     text:"What a man George we love you so much and all your music. You duet beautifully with \nthese amazing artists. "
   },
   {
-     text:"Susquehanna veg hdfghfgyjsuxhxh cu cha c I'd h chef svc ? Hs. Xbox chi \ndidbdheodhbfhdjd vs Jorgensen fed Rhonda fwd hedgehog DVD engender Hhhv h \nchef d dba dBm hdfghfgyjsuxhxh xxx cuff rtf uhh \nvugggkhuujujhsgjtyjhyyfghbncbjjhgvvv Vogue "
+     text:"King George is the best! You can't go wrong with any of his music. Love this CD. The best one ever. "
   },
   {
-     text:"It's not bad But it's not good "
+     text:"IF ITS SUNG BY GEORGE STRAIT . IT HAS MY VOTE! HE'S THE. MAN "
   },
   {
-     text:"I LOVE IT! :D Best Album ever "
+     text:"Hey Cowboy Don't stay away too long! Enjoy you free time & Thanks for many \nmemories... "
   },
   {
-     text:"Love u selena Keep it up Selena Gomez love your new songs and ur old songs "
+     text:"Love it! Will always love this music thank you George:) "
   },
   {
-     text:"Hands to myself She's my second best artist. Love you Selena Gomez "
+     text:"Awesome The king of country music no doubt! Every song he ever made is a hit!! "
   },
   {
-     text:"Ms Gomez is Back! Loving all of the songs. Really enjoying the album. These songs deserve \nalbum of year. "
+     text:"A Classic Reminds me of cruising around in my cousins car back in '89. This is an \nalbum that crossed all boundaries and transcended all racial lines. The \nGodfathers of gangsta rap, I still listen to this album. "
   },
   {
-     text:"I love it But I can't buy it :-( :'( "
+     text:"I am a huge fan of N.W.A N.W.A music is awesome, I heard most of the songs on this album, it was \n100% dope, just Fantastic, remarkable, I don't know how to explain, but \nthis is amazing music "
   },
   {
-     text:"same old love Good and lovely "
+     text:"Great album It is the first one that they did too gather it has great beats great \nlyrics "
   },
   {
-     text:"This is the best album Awesome thanks selena gomez revival is best album. My favorite. "
+     text:"This album revolutionized hip-hop The tracks are hard, to the point, & literally the jump off for gangsta \nrap "
   },
   {
-     text:"Nahhhh I can not listen to the music at all "
+     text:"This album revolutionized rap music. Classic!. And it's a really dope album \nas well. "
   },
   {
-     text:"Revival This album is the best of the world "
+     text:"Can't forgot the classics This album will stand the test of time "
   },
   {
-     text:"hands to myself selena "
+     text:"Great album Love N.W.A they have great music and I love how they express how they \nlived. "
   },
   {
-     text:"Da bomb Shes a good singer like it♥♡♥ "
+     text:"Fantabulous Soundtrack Amazing movie and a fabulous soundtrack. Brings me back to my younger \ndays! "
   },
   {
-     text:"Awesome This was a great album for Selena! Great Job! "
+     text:"Iove you nwa love so you make the best days Like the songs and the songwriter. Ice cube "
   },
   {
-     text:"5/5 She puts a lot of effort into the songs "
+     text:"Classic Love this album the birth of gangsta/g funk "
   },
   {
-     text:"A - Mazing "
+     text:"The best Changed the course of music and became the voice people were looking for "
   },
   {
-     text:"Good First album I bourght lol "
+     text:"I loved it so much I'm coming straight outta copton "
   },
   {
-     text:"Good singers songs "
+     text:"Most important Hip Hop Album ever! "
   },
   {
-     text:"Shelly s "
+     text:"Straight outta five stars This is the best album ever "
   },
   {
-     text:"Tevival Selina "
+     text:"Nwa rocks Just to o good "
   },
   {
-     text:"Ee Meh "
+     text:"Awesome album Excellent seen the movie and loved it "
   },
   {
-     text:"Hated it Trolololol "
+     text:"Martin Takes me back to compton "
   },
   {
-     text:"The best album ever "
+     text:"Cruzin down the stright in my 64 "
   },
   {
-     text:"Amazing I love ittt "
+     text:"Amazing Inspires me to change the racist world "
   },
   {
-     text:"I LOVE SELENA GOMEZ LOVE LOVE LOVE HER "
+     text:"King I like this song "
   },
   {
-     text:"Wow I luv this album "
+     text:"Old school rocks "
   },
   {
-     text:"Album cover is beautiful "
+     text:"Oldies but Goodie "
   },
   {
-     text:"Love it Good music "
+     text:"It's dope "
   },
   {
-     text:"Selena gomez Good "
+     text:"Loved it Loved it the songs are really from STRAIGHT OUTTA COMPTON "
   },
   {
-     text:"Good singers songs "
+     text:"Great 420 blaze it "
   },
   {
-     text:"Great album "
+     text:"Sik Jjjjjj "
   },
   {
-     text:"Awesome Wow Amazing!!!!!! "
+     text:"Straight outta Compton Awesome "
   },
   {
-     text:"wow "
+     text:"Rendition Song selection "
   },
   {
-     text:"Love her "
+     text:"Dope "
   },
   {
-     text:"Best eveeerrr "
+     text:"Loved it "
   },
   {
-     text:"Not as good as Love Songs, Drug Songs. X Ambassadors are the kind of bands that I'd want to see in concert more \noften, especially after hearing their last album. However, this album has \nthe \"VHS\" segments in the album (7 total) that can drag on for too long in \nmy opinion. The rest of the music is decent at best, except the obvious \nhits that captured the world by storm. VHs Is an album that any fan of X \nAmbassadors will enjoy, but not as much as I did with \"Love Songs, Drug \nSongs.\" "
+     text:"Fancy "
   },
   {
-     text:"X Ambassadors is So happy this album is finally out, I'd like to thank Imagine Dragons for \nhaving XA as their opening act in San Jose 2014. They're going to blow up \nwith this album, music is so raw and original must listen "
+     text:"Bette Midler - Its the girls Loved Bette ever since hocus pocus! This album shows her talent "
   },
   {
-     text:"X Ambassadors In my opinion, Fear is tHE BEST SONG OF ALL TIME!!! That was the best \ncolab in the history of ever and I just can't get over Imagine Dragons AND \nX Ambassadors!! TOGETHER!!! But overall their whole album is flipping \nawesome. "
+     text:"Oh Yes! Love Bette, these covers are amazing!!! "
   },
   {
-     text:"Renegade I really dont know any of the other songs but LOVE THE SONG RENEGADE i \ncould listen to it all day. I like listening to it before i read a book \nbecause for the book im reading its a good song to have stuck in your head. "
+     text:"Just Divine One of the best albums of 2015 hope she brings her 2015 tour here . "
   },
   {
-     text:"Fantastic Such a solid album. Great lyrics and a really different sound. It has been \na long time since I have heard music like this that I enjoy to listen to \nwhenever. These guys deserve to blow up and get huge. "
+     text:"It's the girls Fab CD miss milder "
   },
   {
-     text:"VHS Almost a year later and this album is still as good as if it just came \nout. Fear is one of my favorite songs because it features Imagine Dragons. \nI love where X ambassadors are heading with their albums with the catchy \nlyrics and unbeatable beats. :) 5 stars all the way! "
+     text:"It's the girls Bette Midler CD "
   },
   {
-     text:"Holy crap! Lead singer has one of those voices that only comes along every few \ndecades. He could win a Grammy just by singing the phone book. Unsteady is \nso powerful, full of meaning and power. "
+     text:"Bette it's the girls Amazing love bette... good covers "
   },
   {
-     text:"X - Ambassadors \"VHS\" Not too much vinyl out there now-a-days that I can 'honestly' say that I \nreally liked the whole chip! This is Great! "
+     text:"Never disappoints Purely divine Miss M. "
   },
   {
-     text:"This song is absolutely amazing Not only does this song sound amazing but I heard that the meaning behind \nthe song is to celebrate everyone's differences and just to be your self \nbasically. X-Ambassadors is awsome "
+     text:"Love it!! Bette's covers are amazing "
   },
   {
-     text:"♡♡♡ I love almost all the songs. I'm surprised Unsteady is so cheap compared \nto the others, it's one of the best. Even though Renegades is good, I've \nheard it too much and it's kind of boring now. "
+     text:"Its the girls "
   },
   {
-     text:"Renagades! I've Been Waiting For A Song Like This From X Ammbassadors Love It I \nAlways Play It When I'm Playing Call Of Duty Black Ops 3 Because It Keeps \nMe Focused Thanks For Making This X Ammbassadors Keep Up The Good \nWork!!!♡☆♡ "
+     text:"It's the girl's Bette Midler Brilliant "
   },
   {
-     text:"Loved It Awesome album. It's more poppy (popy?) than what I usually listen to but \nit's just such a fun and energetic album that I just have to give it a 5. \nDoesn't the lead singer sound like Freddie Mercury on some of the tracks \nthough? "
+     text:"Its the girls great stuff. "
   },
   {
-     text:"❤❤❤ Nothing like small time people becoming future big time stars. Various \nelements and different styles of music all on one album makes you wonder \nwhat they'll do next. Keep it up "
+     text:"Bette Midler I love it "
   },
   {
-     text:"Don't know the album But its the first on ur workout $8 \"deal\" and I just wanna say wtf that's \nnot a sale "
+     text:"Loved it!!!! Love this woman xxx "
   },
   {
-     text:"Loved it! Absolutely in love with the dyno sound this band creates! Its been a long \ntime since music has made my whole body groove and this album does! "
+     text:"Bette Midler It's the Girls.....fantastic "
   },
   {
-     text:"My new favourite band I feel like i can just relax listening to these guys while i ride my \nroadbike, anything that does that gets a 5 from me "
+     text:"Superb! Love it! "
   },
   {
-     text:"Great Album It would work well in Saints Row 4 or that new, Just Cause 3 & Mad Mad \nVideo Game . also this album is amazing for video games like the 1 that \nmentioned and granddaughter 5album is amazing for video games like the 1 I \nmentioned like grand theft auto 5. "
+     text:"Weird "
   },
   {
-     text:"Moving X ambassadors song renegades was really moving, and the video was too. I \nlove how the piano player of the band is blind, I think that's a reason \nthey made the song. But it's a great song and I think it's gonna be \nremembered "
+     text:"Another great album "
   },
   {
-     text:"X Ambassadors VHS It is simply a great albumn. I was won over by the song Renegade. This \nsong was used during last year's surfing season to advertise the new Jeep \nRenegade for WSL. "
+     text:"Amazing! !! "
   },
   {
-     text:"Love this album There are very few albums that I like every song but this has to be my \nfavorite out of all of them "
+     text:"She is geat "
   },
   {
-     text:"Personally I loved it My favorites were loveless, Jungle Unsteady, and Renegades. Everything \nelse was pretty good too. "
+     text:"Brill "
   },
   {
-     text:"Love this band!!!! These guys are a must to buy! I cried when I first heard renegades. "
+     text:"As a Day one fan I've seen alot of his work thought this one would be \ndifferent from his other works but its just GREAT and UNEXPECTABLE "
   },
   {
-     text:"My favorite song its just amazing I love it. i just wish I could have it \nfor free but u guys won't give me it "
+     text:"Not that great of album Past albums are a lot better "
   },
   {
-     text:"Loved it But I hated the Interludes "
+     text:"Kid ink full speed Kid ink has done an awesome job with his new album "
   },
   {
-     text:"Renegades It's a party in song you feel uplifted and happy when you listen to it \nthere's more to this song than just a title there's friend ships and good \ntimes with memories being made "
+     text:"Very bad album, dont waste your money on it. "
   },
   {
-     text:"Renegade Love driving and playing renegade song in my Jeep..but would play it in \nany car .. "
+     text:"Love it Know all his tracks xxxx "
   },
   {
-     text:"Renegades Easy to follow....kind of music you could play at a backyard BBQ or \ncruising back country. Just like the song. "
+     text:"Brilliant Its the best album ever trust never heard any or her music like it x "
   },
   {
-     text:"I listened to it a few times and, well, hucfhivhfshfdkkhh refojjn \nljjddhcgsjjvnddjvh kjddvjljjddfcgjjjnejfjgcbvfojdfnfbjojh!!!!!! Totally loved it. ;-) "
+     text:"Sick tunes Good songs "
   },
   {
-     text:"BEST SONG EVER!!!! :D I listen to this song almost every time I take a shower, and sonetimes I \nlisten to it when I play minecraft. (-: "
+     text:"Besteee Richtig geiles Album !!! "
   },
   {
-     text:"Love the song makes me feel like that feeling u get when u believe u can do \nanything and not be scared and believe in your self "
+     text:"Kid ink ma nigga "
   },
   {
-     text:"Google play music Half of the songs won't load and I bought a song and it won't show up in \nmy library so I can't use it as a ring tone or anything. "
+     text:"Hairy bollocks Sound "
   },
   {
-     text:"Awesome Loved the whole theme. Every song is well written. Love these guys "
+     text:"Cool even with swear words in "
   },
   {
-     text:"RENEGADES IS A PERFECT SONG I find renegades great for driving on a freeway and you're going past the \ncountryside everything just fits perfectly "
+     text:"Full speed The best album of all time "
   },
   {
-     text:"Been a long time since I bought an entire album! "
+     text:"Kid ink It was good 4 out of 5 "
   },
   {
-     text:"Hell Yesss!! Absolutely fantastic!! I look forward to seeing you guys really getting \nyour names out there! "
+     text:"Roger. RammeLoo "
   },
   {
-     text:"Wow Didn't expect to hear something this good. "
+     text:"My Favorite Song Love kid ink♡ "
   },
   {
-     text:"LOVE IT This album is amazing and so happy my friend showed me their songs cause \nnow I'm obessesed "
+     text:"Calm Albun Great album....espically the first song. "
   },
   {
-     text:"I bought renegades and it the sound will go in and out "
+     text:"I love it Kid Ink your cool "
   },
   {
-     text:"Such a good album If you like music you will enjoy 90% of the songs on this album "
+     text:"Full Speed I love this album!! "
   },
   {
-     text:"GREATNESS This album is just magnificent! Every single song is absolutely amazing! "
+     text:"I love it It's so amazing "
   },
   {
-     text:"AMAZING As the name suggests, the album takes the listener on a journey through \nthe several real stories based on real people. Ne-Yo once again proves he \nis the best. "
+     text:"Kid Ink Love em all "
   },
   {
-     text:"Amazing Love the concept and all songs. Although I believe he could've chosen the \nsingles better. "
+     text:"Is vree good music got "
   },
   {
-     text:"Sean Brennan "
+     text:"Alban Alban Koxha "
   },
   {
-     text:"Neyo.. This is IT....LEGEND!!!! "
+     text:"Kid ink Wicked new albulm!!! "
   },
   {
-     text:"Awsome album! ☺ "
+     text:"Lovvee itt "
   },
   {
-     text:"Love it "
+     text:"100 1000 "
   },
   {
-     text:"Tangled Up Very catchy tune "
+     text:"How H "
   },
   {
-     text:"My favourite song on it is die a happy man or I feel good! "
+     text:"Kid ink Full speed "
   },
   {
-     text:"#HomeTeam Greatest Album of the year ! "
+     text:"Love it My f songs "
   },
   {
-     text:"Dg Zag "
+     text:"Loved it Best songs ever "
   },
   {
-     text:"Great listening Nice "
+     text:"Kid ink This cool "
   },
   {
-     text:"Selena Gomez is amazing No Selena is a really amazing singer and Justin is rubbish sorry but he \nis. "
+     text:"Ufff Can't wait for it "
   },
   {
-     text:"item not available in my country This is so unfair! When can I pre orderit from UK? :-( "
+     text:"Kid ink Cool "
   },
   {
-     text:"Apsouletly fantastic I broughte this thinking it was just all of her songs but this proove dme \nwrong "
+     text:"Crissy Very good "
   },
   {
-     text:"Amazingly awesome! I love each and every album from Selena! And I think this one is going to \nslay ♥ "
+     text:"*-* "
   },
   {
-     text:":D !!! I can't wait for the album but I couldn't preorder it from here because \nits not avaible in the U.S. like ?? But I bought it from iTunes so Google \nStep Up Your Game "
+     text:"My best "
   },
   {
-     text:"I love selena gomez so much . This is by far the best album she has done \nand I love the heart wants what it wants so much . It's my favourite song \non this album "
+     text:"ONLY NICE "
   },
   {
-     text:"Really great album. I especially loved the heart wants what it wants because it is so catchy \nand I think that it is her best song yet. Well done Selena!!:-D "
+     text:"Cool Back "
   },
   {
-     text:"I love Selena Gomez Can't wait for this album to come out have all the albums and this is so \namazing love you selena you r my life "
+     text:"Sick "
   },
   {
-     text:"Love herr The heart wants what it wants "
+     text:"Smashed it "
   },
   {
-     text:"Awful She can't sing..I'm not jealous on her cause' I don't like her anyway,she \nis soo fake and hypocrite...she isn't talented..she is famous only cuz she \nhas a baby face that everyone thinks is beauty... "
+     text:"Hype "
   },
   {
-     text:"Best Album by Her Should have The Script in more of her music. Great collab by them, and her \nmusic is breath taking to say the least. "
+     text:"Great songs Your songs keep country in country music. Love it. Never change, you got \nit A++ already. Great job Rucker! "
   },
   {
-     text:"Cant wait for this im so excited "
+     text:"Love. Daurius. Since. He. Started. He will. Have my. Support. Always my \ndaughter. Was 1now 26figure. That's. Song "
   },
   {
-     text:"Awesome album :) Getting this day one when its available in my country "
+     text:"Homegrown hony I like it its my favorite song "
   },
   {
-     text:"Loveer Love this albom so much. Thank you Selena. Don't cry babe<3 "
+     text:"Southern Style Country from the cool voice of Darius.Rucker "
   },
   {
-     text:"Can't wait Selena is so amazingly talented and I can't wait for the release of this \nalbum "
+     text:"its great really like the album "
   },
   {
-     text:"AMAZING! Can't fault this album at all "
+     text:"Home grown reminds me of home "
   },
   {
-     text:"For you Her new album is absolutely gorgeus love it the new songs are great \nexpecially THWWIW "
+     text:"All his music;; "
   },
   {
-     text:"Hi I dont have that money "
+     text:"Great album Southern style. "
   },
   {
-     text:"All day all night Oiuy "
+     text:"Nicemusic "
   },
   {
-     text:"Simply the BEST! :D :D I listen to her Albums everyday and I can't get enough :D "
+     text:"The beginning. This album is good. Feel this is the beginning of the end. You can tell \nthis album is professionally produced. I have loved them since the first \ntime I say them on the sing off. But this feels like the sell out album. \nWhich is great for them but it's not just the 5 of them. The use of extra \nsound effects (reverbs and such). It's not the roots they came from and \nmakes me a little disappointed. Still good and worth supporting them. Just \nfeel this is the beginning of the end of 5 talented people making pure \nacapella music. "
   },
   {
-     text:"PER-FECT I love Selena Gomez and... I think this is the best album EVER! "
+     text:"A Must Buy! I am just going to tell you that this is an EXCELLENT and AMAZING album! \nYou must buy it and here are three points why: 1. It is Pentatonix! 2. It \nis acapella (which is amazing)! And 3. It is a lot of original work! There \nare three reasons and should you need more then you need to just buy it \ninstead of over thinking it. This purchase will make you very happy, trust \nme I know from experience. "
   },
   {
-     text:"Selena gomez Mohammed Abbas "
+     text:"CANT GET ENOUGH!!!!! I've been waiting for this for a LONG time now and its everything I \nthought it would be and more!!! I just bought it today and I've played it \nthrough 4 times. Something about their music (covers included) strikes some \ndeep, great feeling, emotions that I can resonate to this album with. I \nhave been a lifetime fan since PTX Vol. 2. If you want something different \nand still phenomenal, PTX is the way to go! "
   },
   {
-     text:"Best Can wait for this album!! 26/1/15 come on!!!!! "
+     text:"Absolutely perfect in every way! Looked forward to this release for months, \nonce it got here I started playing and haven't stopped. I can listen to \nPentatonix all day every day and never get tired of them. They are such a \nridiculously talented group. Scott, I love the rasp in your voice in Sing! \nAlso, Kevin, can I just say....wow, loved your part too. Mitch, you're \nalways spot on and fantastic and wonderful and..and..I could go on forever. \nKirsty, Water is SO good! It's a perfect showcase of your voice. Avi, what \ncan I say sir, Light in the Hallway is stunning. I love these guys so so so \nmuch! Can't wait for them to come back to DFW! "
   },
   {
-     text:"Why Why is it only aloud on album ...........……… "
+     text:"PTX in top form Over the 17 tracks there is only one that I don't absolutely love. It's \nnot a perfect album but it is still fantastic! It's amazing what PTX had \naccomplished for music and a cappella. Can't sleep love and sing are \nfantastic singles, and light in the hallway is something I will be singing \nin my head constantly. This was definitely worth the wait! "
   },
   {
-     text:"She can't sing "
+     text:"Of course this album deserves 5 stars. Anyone who gave this album less than \n5 should be ashamed of themselves and obviously doesn't recognize the \namazing talent they hold. Although they didn't write all the music \nthemselves, they still possess more talent than a lot of other popular \nartists. I would recommend this album to anyone that likes energetic, \nupbeat music. "
   },
   {
-     text:"Only love She's a fighter, I really love her. "
+     text:"Five stars for the five stars. It's only right. I preordered this because \nof \"Can't Sleep Love\". Totally love it! The \"ahuh\" and \"yeah\" are small \ndetails but make the whole thing! I can't wait to hear the rest of the \nalbum and hope it's just as good. Ahuh! Yeah! "
   },
   {
-     text:"I miss jelena "
+     text:"Always sl*y They are so talented! I love it! I wish they would have thrown in a tune \nor two that reminisced of Love Again or See Through. Also, some of the \nproduction different than anything they've done before. Some great, some \niffy. "
   },
   {
-     text:"my baby awesomeeeeeeee "
+     text:"Of Course I Loved it. It's Pentatonix. You can tell it's professionally produced–I feel like it takes some of the \nclear-cut distinctness away from their sound.They sounded Raw, with their \npure voices,and it was unbelievable.This album doesn't sound as raw,but \nit's still a beautiful. PTXVol III had more of a pop feel to it:whereas \nthis album does have several peppy and fun pop songs,it seems to have more \nof a demure, hauntingly beautiful theme.Happy with my purchase.Will \nprobably annoy my roommate for the next month listening only to this. :) "
   },
   {
-     text:"The Heart Wants What It Wants A love song "
+     text:"LOVE! A few years ago one of my friends could not stop blabbing about this \namazing group of a capella singers that had won the sing off... what were \nthey called? Pentatonic? Patonix? Pentatonix. I stumbled across one of \ntheir songs, this group that my friend kept talking about, and I fell in \nlove. Looking back, I don't know what would have happened if I had never \nfound that song, I would not be where I am now. I can't believe how far \nwe've come! CONGRATS PENTATONIX!!! Love the new album❤ "
   },
   {
-     text:"Selena gomez That song is about her and justin and i love selena gomez "
+     text:"Bruuuhh I honestly think you are sleep if you are not feeling this album. On the \nvery first song I was here for it all!!! Love how everyone has an actual \npart, my boi Kev CRASHED If I ever fall in love. My goodness!..... Just yes \nacross the board. "
   },
   {
-     text:"AMAAAAAZING!!! SELENA GOMEZ IS MORE PERFECT THAN PERFECTION ITSELF! "
+     text:"This album should be a huge success. The first single, \"Can't Sleep Love\" \nhas a somewhat R & B sound to it with impressive harmonizing and rhythm. \nFrom the snippets of other songs on the release, like \"Rose Gold\" it should \nbe a great adventure in discovering what other great music Pentatonix can \nnot only sing, compose, and produce - - but write as well. I am \nanticipating the arrival of the new album with high expectations. "
   },
   {
-     text:"Brill Amazing album but lower the price a bit "
+     text:"AMAZING. Pentatonix has done it again! Their voices are beautiful and their \nharmonies are amazing. I cannot stop listening to this album I'm so \nobsessed! Can I also just say that REF GOES OFF!!! YASSSSSS!!! This album \ndefinitley deserved that #1 spot! "
   },
   {
-     text:"Odnsosb Piggy face gomez I love u "
+     text:"Can't be better There are my angels. My perfect people with angel voices. They release \nalbum after album, and they develop only in better way! I Love Them so \nmuch! Such an gorgeous album ✨ "
   },
   {
-     text:"Love you Your amazing i love you so so so so so so so much your my queen "
+     text:"I think I would love it if I could get it. I woke up this morning going Yay the new album is out, and I had \npreordered it. But for some reason, it won't give it to me. I don't know \nwhy, but if someone could tell me, I would be happy. "
   },
   {
-     text:"selena gomez love this song xx and love selena gomez be selenator for life xx "
+     text:"Nothing short of amazing PTX has been my favorite group for awhile now, and I've been so pumped for \nthis CD to come out! It's everything I was hoping for and more :) "
   },
   {
-     text:"Loven it Awsome , amazing , fab , my style!The heart wants what it wants well my \nheart wants this albom !!!!!!!!!:) "
+     text:"Loved it I love the song Can't Sleep Love just in general and Pentatonix is \namazing. It is hard for me to even put it into words. The best I've heard \nin a long time. "
   },
   {
-     text:"?!?!?!چرا تو ایران این در دسترس نیست؟"
+     text:"Best Album Yet Every song on the album is fantastic. I keep trying to pick a favorite, \nand it's very difficult. I've listened to this album at least once a day \nsince it was released and I have yet to tire of it. "
   },
   {
-     text:"Greatest hits Pop artist selena gomez "
+     text:"Can't sleep love Good on time all the time hope to get the whole album love love like to \nthe people amen clear and articulate no extra let's go to back up church \nalright alright bye now100ok "
   },
   {
-     text:"Lysm! Selenator *-* "
+     text:"A Masterpiece Created By God!!!!! This album is so good!!!!! Na Na Na is a good easy song for everyone, \nCan't Sleep Love is a good r&b soul song with smooth beats, Sing is a fun \nsong to dance to, ref is a Pop song with great beats and lyrics, First \nThings First is soooo good that its unexplainable, Rose Gold is Fire The \nRest Of The Album Is Sooooo Good!!!! Good Job Pentatonix!!!!!!! - Joshua \nMillage "
   },
   {
-     text:"Selena Gomez I love your songs "
+     text:"They are the BAND! How can you begin to account for the ridiculous level of talent and \nprowess pouring out of this fab five?? Eshoes of the jazzy funk of Take 6, \nthe pop groove of Maroon 5, with tick-tight vocal harmonies and the \nunrivaled bass of Avi - they're the X-Men of a cappella! See them live if \nyou can! "
   },
   {
-     text:"it was good and I will always be a great fan of Yours! it just seemed like \nu were not on your \"A\" game!!!!! I think u r a brilliant, talented \nsinger/songwriter & that your life circumstances have really taken a toll \non your music as well! but I can tell u r doing the best u can considering \nall that u have been thru. u have handled it very well! WELL DONE!!!!! :) "
+     text:"I've followed PTX since they first became a group and I can't explain \nenough how amazing it is that they're making their own music now. I'm crazy \nin love with this album. Each an every song has me feeling something \nfantastic whenever I pop their CD in my car. I highly recommend this album \nfor people of all ages! I love it! "
   },
   {
-     text:"Knows what we want everytime Every song that comes out of him is tops (gold)! I think his lovin's \nMiranda is bringing the best in him. He probably would do just as good on \nhis own, but, the love of a good woman seems bring out a little more \nsomehow. Blake, keep the love alive and the songs will keep coming. "
+     text:"Just.... Yasss!!! This album brings back \"beautiful\" and \"simple\" music. Soulful, creative \nsongs that EVERYONE can enjoy. All of the member's individual personalities \nare represented throughout. Brings chills every time I hear their angelic \nvoices. Pentatonix is unmatched!!! "
   },
   {
-     text:"Based on my Story chew tobacco spit This Guy I am loving causing he is so much like my friends from the \nBronx..\"Manly Men\"...it's a guy thing,\"Live a good life b a guy "
+     text:"Best. Group. EVER! I love these guys so much. I have a lot of songs that I love so much, its \nplayed on a loop 24/7! And I have a huge obsession on Mitchell himself and \nthe song water. Both. Are. Bae. "
   },
   {
-     text:"Great!!! Blake has a way of saying what so many more of us want to. He does it in a \nway that either makes you laugh or agree very strongly. I love Blake's \nmusic. Let's hope he keeps this up for a long time. "
+     text:"AMAZING. The whole album is an amazing work of art. One of those albums where you \ncan listen to the songs the whole way through and not skip any because \nthey're all amazing. "
   },
   {
-     text:"Amazing talent! I really don't think Blake could make a bad song all of em are great! He \nmakes great songs for ever emotion happy, sad, hell raisin, and everyone \nin-between! All around a super great guy and very nice down to earth guy \nwhen ya meet him....oh an beautiful eyes! :) "
+     text:"Love Love Love It! I have been waiting solong for this and every song is amazing. Na na na is \nso inspirational and to the river and light in the hallway brought tears to \nmy eyes "
   },
   {
-     text:"Good I usually don't like country music but Blake Shelton is one of my favorite \nartists ever. He's so good, this album deserves 10 stars. "
+     text:"So great! Such talented musicians all the way around. I wonder how long long it will \nbe before other artists get tired of Pentatonix improving on their \nwork...Their Cheerleader blows the original out of the water (and I loved \nthe original). "
   },
   {
-     text:"Just love that boys out here. Then says chew tabco chew tabaco. I hate \nchewing tabaco thing but its sounds cool. Oh my son chews @ allso sings. He \nsp unds just like or even better .Allso my oldest son plays drums \nAwwwwwwsom... "
+     text:"So good! I'm a new fan, but I have become such a big fan! Anybody who hasn't heard \ntheir stuff really should. So much skill! "
   },
   {
-     text:"Based on a True Story Old farts???? Give it up, Blake. We have more interest in good music.And \nhave the money to buy. Be careful who you warm up to... "
+     text:"Something New This album has things that they've never done before. Every song is either \nreally fun to jam to or sing passionately with. The vocals are amazing and \nthe compositions are creative. "
   },
   {
-     text:"I love everything about this album, and Blake is just So Man, Sexy, down \nright just so Witty and just love him and Miranda. I would say Ditto to all \nthe other reviews that the two of them have made each other better. What \nhas come out from both of them since been together has been incredible, \ntheir Talent has doubled, tripled in these past years. They were definitely \nmet to be together the Awards they have both won amazing. I love them both \nand this Album has his Best on it. Love love. "
+     text:"LOVE the new album! Love the album, every song! Can't say enough good things. I play every \ntrack, it's the soundtrack I listen to at work on repeat. "
   },
   {
-     text:"Base on a true story I love blake shelton no matter if he's not married to mariannda any more \nor not. He's good by his- self he doesn't need a women stand beside him to \nmake him look good, lord he's already that!!!. I love you blake, Sara from \nTexas. "
+     text:"Perfect Pentatonix Album! I have the cd for this album and play it ALL the time! I'm talking \ncranked, no headphones, singing along. Slow songs, power songs, great \nlyrics and amazing vocals with their famous signature vocal rythm section. \nYou need to buy this! "
   },
   {
-     text:"Based On A True Story Blake is just a\"Bad Mother Shut Your Mouth\".That man is awesome everything \nout of his mouth comes out and who wouldn't want lay next to Miranda every \nnight Blake your my her "
+     text:"Amazing album from Pentatonix! : ) Love this album & love them & their music, amazing harmonies and voices, \nlove it! <3 definitely recommend this album if you love Pentatonix and if \nyou are a fan of acapella! : ) love the new singles, Can't Sleep Love & \nSing! <3 "
   },
   {
-     text:"True country boy Greatest country artist ever! When you look at and listen to Blake Shelton \ncountry doesn't get any better than that..... "
+     text:"I absolutely love this album. I've always loved PTX and this album is the \nbest so far. Mitch, Kirstie, and Avi all kill their songs. Scott is \nfabulous as always. It's just absolutely amazing. "
   },
   {
-     text:"Just one problem Track 5 eyes will not play, please fix the problem "
+     text:"Love it!!! its so good, their sound is amazing and they are truly my inspiration. \nsounds really cliche but I love it "
   },
   {
-     text:"Best country music singer today period. Funny too Same as above, every song is awesome, just buy it because I said so :') "
+     text:"Best album by far! Pentatonix have always been talented and this album have exceeded my \nexpectations. I've had the whole thing on repeat from day 1 of release! "
   },
   {
-     text:"Blake has done it again! Great compilation of songs and featured artists. Blake himself is \nfantastic and doesn't need any help making his music country strong!! "
+     text:"BEST BAND EVER I somehow only discovered Pentatonix over the summer, and I'm so glad I \ndid! I never really listened to A Capella, but I realized how incredible it \nis. They are so talented and the lyrics are beautiful. This album is \nconstantly playing on my phone. "
   },
   {
-     text:"HE IS AWSOME I REALLY WANT TO MEET HIM HELLO BLAKE SHELTON AND IM 10 YEARS \nOLD AND MY NAME IS LOGAN BLAKE DRUMMOND IM A BIG FAN MY FAMILY JUST LOVES \nHIM BUT I THINK YOU,ERIC CHURCH,BRAD PAISLEY, LUKE BRYAN,kenny Chesney,tim \nMcgraw, and keth urban. Please read this and post back boys round here. "
+     text:"SO AMAZING Most talent I have seen ever so big artists get out of the way for them, \nthis goes for every one of them "
   },
   {
-     text:"Based on a true story This cd has everything you want! It's soft, exciting, loving it is the \nbest arrangement I've heard from Blake so far! Love it!!!!! "
+     text:"Obsessed I just can't get enough. I am new to the Pentatonix fandom and kicking \nmyself that it took so long to give them a listen. "
   },
   {
-     text:"Min would be you. It remains me of the woman,I Loved with all my heart. TANYA LYNN CARTER. I \nNEVER FOR GET THIS BABE. "
+     text:"PTX is the best!!! I am obsessed with this album! I can't stop listening to it, I'm so proud \nof how far they have come. I am and always will be a pentaholic! "
   },
   {
-     text:"These aree the songs I like by Blake Shelton Boys around here, God gave me \nyou, Honey bee, Old red, Neon light keep up the good work. "
+     text:"Kill me noww I already know this thlrack Is finna be popping "
   },
   {
-     text:"I give it 5 stars I like the song mine will be you because I like this girl and it reminds \nme why I fight for her!!! "
+     text:"Awesome!!! Follows in the typical perfection of all her (their) work!!! (On a side \nnote... Before you try and be a \"keyboard Ninja\" make sure you're 100% \ncorrect.. Otherwise you just look.. Well, since this probably isn't the 1st \ntime, you know what \"idiocracy\" looks like.. You just have to lift your \nother finger.. C'mon I know you can do it.. & scroll down and/or look \naround because Bartender is available as a single... But, I'm sure they \nmade it available because they were scared.... DOLT!!) "
   },
   {
-     text:"Love it... You know an album is good when you don't skip a song...first country album \nI've bought not disappointed at all.... Hope all his albums are this \ngood...buying all!!! "
+     text:"Lady A Forever! I first heard this at a IHeart Radio concert with Lady Antebellum and fell \nin love with this album. If you like country and pop music, listen to this! "
   },
   {
-     text:"Blake and Miranda Blake is absolutely an amazing artist. Since he's been with Miranda \nthey've both exploded in how good they are.. love, love, love this record. "
+     text:"Bartener I have never seen my hubby dance, been together for 15 yrs. this song \ncames on. He's up & dancing it's fun to watch "
   },
   {
-     text:"Makes great music I truly like him as a artist. He's not perfect but 9 out of 10 time is \nmusic is great. "
+     text:"Awesome album It sounds like something changed on this as far as their style on this \nalbum, but whatever happened made it awesome. Long stretch of love and 747 \nare the best songs on there. And of course bartender. "
   },
   {
-     text:"Blake: Yours is the only country I listen to. Thanks for keeping it real and \nwishful! "
+     text:"Dumb What's with Bartender not being available as a single. Pretty arrogant. \nHow about I not buy any of your songs or albums. "
   },
   {
-     text:"This is one of his best new albums... Grand daddy's gun is so amazing along \nwith all the rest of the songs ♡♡ "
+     text:"Falling for you Been waiting for this album for a very long time and love the new album. \nYou guys are my favorite country band out there you never seem to \ndisappoint me. :) "
   },
   {
-     text:"Based on a true story Omg Blake' you have got what it takes I love your voice' your face' shoot \neverything about you. Please come to Charlotte, BC soon.....Amy "
+     text:"Hey Bartender I literally love this song. It is so amazing. I love the perfect harmony \nthat Lady Antebellum produces and it's just amazing. "
   },
   {
-     text:"I found someone! Been through hell with past, telling that person it's finally over and \nyou're moving on! Finally!!!! "
+     text:"Its all good Lady A hasn't put out nothing that wasn't good. I always said they were \ngreat and it just keeps on coming. "
   },
   {
-     text:"Hunter Redding union country for live go tigers This is what real music is not all of that rap and head banging music. "
+     text:"Greatest Fan! I say them on yesterday's show of GMA and heard about the story behind the \ntitle for the album and it was incredible. I have loved Lady Antebellum for \na very long time and this album is truly remarkable! :-) "
   },
   {
-     text:"All Blake's songs! #and the voice award goes 2 Blake Shelton! or can that happen "
+     text:"Great album I haven't heard a bad song from them yet. Love the guitar work \non this album AMAZING!!!! "
   },
   {
-     text:"Granddadys gun blake Shelton I hated it you dumb drunk guy "
+     text:"the poo pop 9 PP popup 9location poo loophole PP p p p p PP p and PP PP points 9 poo prop opp the p9 opp ppppppppppppppp opp pop pop p \nPP poo prop loophole .O. ( p.o. polloi p p p p p p loophole pop 9 poo PP "
   },
   {
-     text:"Best song in history! Please do more great songs. My dad LOVES them! "
+     text:"Leaving album on repeat! I loved the direction Lady Antebellum took with this album, each song \nbetter than the last. Their blend and artistry is at the top of their game \nfor this album, folks! "
   },
   {
-     text:"I Love some Blake! His music is just awesome... i love him and his music.. xoxo u rock "
+     text:"Amazing group Seen lady a in concert 3 weeks ago best show I've seen in a long time. \nHope to see them again "
   },
   {
-     text:"ONE OF MY FUTURE NEXT HUSBANDS I HAVE ALWAYS LIKED BLAKES MUSIC....BUT THIS ALBUM BY FAR IS THE BEST HES \nRELEASED!!! AWESOME!!! I FOUND SOMEONE EXPLAINS MY WHOLE PAST YEAR OF MY \nLIFE!!! ♥♥♥♥♥♥ "
+     text:"Worst of their albums. It is like it was time for another album to be \nreleased and they threw this together. I listened to it once which will be \nmy last time, "
   },
   {
-     text:"Blake Shelton Blake has become known to me from the voice.I fell in love.. "
+     text:"Desieving Why advertise 99p when £10.49 I do like it but way to expensive "
   },
   {
-     text:":D Blake is the best thing that could ever happen since FGL and Luke Bryan. "
+     text:"YUP! That's a good album This is by far my favorite album thus far. Love the new songs and sound. \n747 written by Gordie Sampson is just awesome! "
   },
   {
-     text:"all around great humanbein , didn 't liked it loved it give that boy a five star+ gosh darnit "
+     text:"LADY Antebellum747 Deluxe Great mix of songs; Love falling for you on deluxe edition . Never heard \nSong I didnt love by this group ! "
   },
   {
-     text:"caitlin piercy all of blake sheltons songs are the best i love you so much you are my \nfavorite song writer ever never stop singing country songs "
+     text:"I'm hooked Bit late to the party but im here now what a great album ill be sure to \nplay it for all "
   },
   {
-     text:"A real man True heart Blake.....you are the best of the best....please do more music \nwith Trace Adkins "
+     text:"I can't wait for this cd. I really love lady antbellum. "
   },
   {
-     text:"Blake Shelton Its fun I've never really been a listener b4 BT I don't mind this can sit \nbk an have a few "
+     text:"I can't stop listening!!!!! I love Lady A and I love their new album! They just get better and \nbetter!!!!! :) "
   },
   {
-     text:"Based on a true story Loved it could listen to his music all day and nite he has a wonderful \ngreat voice he is an angle in disguise. "
+     text:"LARS SKIIPOLE YER A FUD "
   },
   {
-     text:"They killed every beat in every song. So thats what I most liked about this \nalbum. They had lots of different artist in this so that probably helped \nthem in music wise. Both Chris & Tyga did there parts really well so hats \noff to both them. Chris Brown & Tyga worked really well 2gether on this \nalbum so they should try make another album together. My personal favorite \nwas AYO. "
+     text:"It sounds great and I haven't even bought it yet. "
   },
   {
-     text:"Dope AF Best album I'm big huge, large fan of Chris And Tyga and I'm really proud \nof all the work and effort they put in to fan of a fan 2 they are definetly \nbrothers for another mother. Music by themselves is really dope but \ntogether they are unstoppable, Chris has a dope tone of voice, and Tyga has \namazing Rap skills, they really deserve credit and 5 stars. I actually hope \nfor more hit songs from both of them , individually and together "
+     text:"Lady A Usually make solid music do always a swell choice "
   },
   {
-     text:"Amazing The kings of music... This album is so great. It provides amazing beats \nand lyrics. You can tell they worked there buts off for this. They have \nsomething good happening here. Disserves everything,a Grammy,a moon \nman,EVERYTHING.. love you guys alot "
+     text:"Great album One of the best albums they have ever made. They just keep getting better! "
   },
   {
-     text:"Tyga. You done boi. Tyga is trash man. I'm sorry but he been corny since that wack coconut \nsong. If it wasn't for white dudes tryna be hood or bitches who are thots \nand don't know real hip hop, he would be a local rapper and that's it. "
+     text:"Falling for you I liked it a lot the words was something great to. "
   },
   {
-     text:"Fan Of A Fan The Album (Chris Brown) Chris Brown has got some Talant he has to be my faverate male solo artest \npeople have alot to say about him but i always say there's always two \nside's to every story critic's i can't stand um all critic's are just all \njelous T★★T's! Well i say you keep doing what your doing Chris lad your \ndoing a fine Job... "
+     text:"747 A mix of country and pop that gets your head bobbin and your toes tappin \nalong. "
   },
   {
-     text:"Bumpin album! Big ups to my boy Chris Brown showing off an additional \ntalent and Tyga holdin it down. My favorite song is wrong in the right way \nChris 1st verse is an all time favorite of mine. This I will be playing for \nyears to come just like I still play the hot tracks from past years. \nCongratulations on a fun album!! "
+     text:"Haven't bought it yet but can't wait! I love the songs on this album. I can't imagine not having more from the \nguys. "
   },
   {
-     text:"Good beats... but very rapey vibe The flow and beats of the songs are beyond excellent, but the lyrics are \nborderline childish. Its really an album about Breezy and Tyga getting \ngirls in the most ridiculous ways. They believe alcohol and pot will get \nthem with any girl. I wish they used the lyrics in more original way, but \nit sounds like a bunch of 17 year olds fantasizing about getting in bed \nwith everyone and anyone. "
+     text:"747 Deluxe Edition I can't stop listening to it, love every song. "
   },
   {
-     text:"Fan of a Fan!!! Love it, love Tyga and Chris Brown both great artist. They did it with the \ncollaboration, on this Album. This is most definitely sum that you can turn \nup too in the club!!!! Great work guys keep going hard, Fan of a Fan "
+     text:"Really really want lol Hope we get this album here in Scotland :( "
   },
   {
-     text:"Fan of a Fan Shows diversity the rhythm and blues side of it sizzles with a hint of \nraunchy and sexy igniting your primal desire for a bit of naughty play and \nfun while the hip hop keeps you fully charged with adrenaline massive beats \ncharm the hidden dancer and rapper that lives in us all. Loved this one as \nmuch as the first collaborative. "
+     text:"Music Iove to listen to music when I work or just having fun "
   },
   {
-     text:"Perfect blend of singing and rap Even though Tyga is average at best, CB carried more than enough weight \nwith solid features to make this an awesome listen all the way into the \nsummer. Banjo, Nothin' Like Me or Bunkin' will be in a nightclub near you! "
+     text:"Amazing Lobe the song Bartender. I especially like the way it can describe what \nyou are going through. "
   },
   {
-     text:"Masterpiece Awesome collaboration...both Breezy and Tyga really brought unique talents \nto the table. This album in general has got er'thing; old-school, some \nfunky, cali style and RnB slow type joints. Dope. "
+     text:"I love all there songs "
   },
   {
-     text:":/ Seriously ?!? The beats are on point. I'm ACTUALLY LISTENING to what \nyou're saying- the gist of this album is drugs, money, girls and girls and \ngirls. A whole lot of nothing was said on this album... I'm sticking to \nDrake. "
+     text:"Bartender, Sounded good at time, Down South. These three songs are my favourites. But a good album. "
   },
   {
-     text:"THIS ALBUM IS FIRE!!! Man I wish I never overlooked this album otherwise I would have been \nbought it a long time ago. I have this album on REPEAT almost everyday. \nThis album is definitely better than the mixtape in all forms. Both clean \nand explicit versions are good but I had to go with this one cause it's \nuncensored. Awesome job love the album the beats and the collaboration is \none of the best. My favorite song is She Goin' Up. Epic "
+     text:"Great Good album, 747 sounds a bit like need you now lol. "
   },
   {
-     text:"I liked it but I thought the last mixtape they did together was fire. This album I really \nliked only 5 tracks on the album. Could been better, thought it was Lil \nrushed. "
+     text:"As a new listener to lady a I love it and addicted to it "
   },
   {
-     text:"Two People Who's Music Blends Perfectly Tyga and Chris Brown are two of my favorite hip-hop artists. I love Tyga's \nflow, and the way he can go in on a song, and he makes really great covers \non top of it. Then Chris Brown has really good vocals for the slower songs, \nand is also a pretty good rapper. These two have very similar styles, so \nthey blend quite well. I'm looking forward to Fan of a Fan 2, if it ever \nreleases. Great album. "
+     text:"Deluxe lady antebellum Anazing live them "
   },
   {
-     text:"Killed It Chris Brown is an amazing R&B artist. He's so talented. In my opinion, \nthis album sounds SOOOOOOO much better, with him on it. I love Tyga. He and \nBreezy go perfectly together. Chris, you'll always be my favorite singer, \nR&B artist, everything! You're an amazing person. Don't stop, because it'll \nonly get better and better, I know it. Love ya! "
+     text:"I love the album I really love the song bartender the most out of the album but all of them \nare really good "
   },
   {
-     text:"what happened Ayo is probably the only Good song on here and I only like the chorus. On \nthat note WHAT IN THE HELL happened to Chris brown, back then he had really \nawesome songs I actually had a crush on him. But not anymore his music went \nto hell after 2012. "
+     text:"Bartender I could listen to this all day and night and it just makes me happy :) "
   },
   {
-     text:"Just why??? Tyga and chris aint bad but cmon they just keep makin songs that sound the \nexact same its always hoes this and that.....wish the old breezy was back \nand tyga stuck solo "
+     text:"Can me hi Juileann Miller "
   },
   {
-     text:"Aiiiight Some of the beats were too repetitive, I thought I was listening to the \nsame song like three times. But overall it's cool though. "
+     text:"AWESOME I love every song...another great album from Lady A! "
   },
   {
-     text:"Love it! 5 stars... This is one of the best albums out right now! I have a entire list of \nfavorite songs! from \"Ayo\" to \"Remember Me\"...The creativity in this album \n& the artwork is amazing. I would give it 5 stars. "
+     text:"Great Work The production of the album sound effects and beats are just great + \nTech's flow and lyricism make this album really dope. 24 tracks many \nfeatures but mostly on hooks. Its not a cheap album, but its all worth it I \ndont really skip any songs on this Album "
   },
   {
-     text:"Haters Why is there always a hater you mad cuz they get more bitches Dan uuuuu ! \nAnd they got more talent and money than you so PS hop off they dick and get \na life thank you B-D this goes to BK Beast and Jeremy Boqcout good back \ndown me "
+     text:"An Ever Ascendancy Just keep doing what you do man! Let the mass corruption, infectious greed \nand delusions of self-proclamatory entitlement spread relentlessly, just \nlike the cataclysmic fire that'll inevitability end the very empire that \nprovided the spark. "
   },
   {
-     text:"Trash Chris Brown used to be an amazing artist wtfff happened and Tyga is too \nirrelevant to even talk about. Ayo is the only decent song on here. "
+     text:"6688846993 Tech is hands down untouchable compared to all these trash rappers. I can \nbarely stand turning on the radio anymore the garbage spewing out of it \nmakes my ears bleed. Keep the real s*** comin tech, but keep those industry \ngoofies off your songs they aint f****n with strange music! I'd love to see \nanother collab with scarface rittz jarren benton or eminem. "
   },
   {
-     text:"Killed it These Trawww killed it and breezy did best album for 2015 for right now \nuntil ludaversal come it's the best idgaf what any body say "
+     text:"First off all did you notice the fact that the album cover is bas ackwards? \n(The 9 is on the other side 4 the slow...) The whole album was phenomenal. \nA G with true feelings (heart)...I salute you for that. Technicians \nforever! "
   },
   {
-     text:"Dope This album is super good with some sick beats. Remember me, ayo, lights \nout, girl you loud are the best ones "
+     text:"Shut up and take my money!!!! I don't have it but I know it's hot and now that I listen Speedom (Wwc2) \nI'm done I'm buying this S**t.... "
   },
   {
-     text:"Best song ever This song is great even though I didn't download it yet still good I \nlisten to it it goes good with the picture and everything yeah you did this \nChris Brown "
+     text:"It's impossible for Tech to make bad music. Every album is different with \ndifferent tones, themes, sounds, even the style of music. This album is \namazing! I've had it on repeat. There's not one song that I dislike on this \nalbum. There's no song by Tech at all that I dislike! "
   },
   {
-     text:"Good love this song Oh yea to princess tayna however you spell it you should br grounded for \nlistening to it dont let yo hate on him what if it was you an people give u \nbad comments would you like that umm "
+     text:"Can't Stop (^S^) Music Proud to be part of the Tech N9ne experience for 10+ yrs now... Technician \nI am, wholeheartedly In life, and, in death... "
   },
   {
-     text:"All his songs Chris Brown is very talented ,handsome, adorable young man.. In my eyes, \nyou're more than a 5 star ,you're the king of all songs, you have all my \nvotes, God bless you, take care of yourself. You are a special man, who I \nlove very much, especially as a fan,friend, my son also loves you very \nmuch... Thank you Chris for bringing many songs to us ,you're doing a great \njob, you're a double platinum, and the best in the world, hope to see you \nin concert soon, ,love ya!! "
+     text:"Off the chain Could have been shorter cause he gets it done easily with ten eleven \ntracks. I'm not a longtime fan but this is the best I've heard from him. "
   },
   {
-     text:"Chris Brown is soooooooooooooooooo stupid stupid stupid stupid stupid \nstupid stupid stupid stupid stupid stupid stupid stupid stupid stupid \nstupid stupid stupid stupid and all of his songs are terrible. He should be \ngrounded grounded grounded grounded gronded grounded grounded grounded \ngrounded grounded grounded grounded grounded grounded grounded grounded \ngrounded grounded grounded for 37,217,247,318,249,329 years. "
+     text:"Best tech n9ne album yet Got it thinking I would listen to it throughout the week, no no no listen \nto the whole thing in one sitting it was amazing it is a must by even if \nyou don't like rap it was amazing "
   },
   {
-     text:"Tyga messed it all the way up Chris Brown didnt disappoint us but Tyga really tries too hard it was wack \nn weak...this should of just been chris brown album "
+     text:"Special effects This tech nine dude is so overrated it makes me sick .he just yells and \nhas guest spots to pick up his lack of lyrics and annoying voice "
   },
   {
-     text:"Killed It.... Not Really into tyga but him and Chris together can bring it....Chris is \nextremely talented anything he is featured on with his voice he makes \nanything song better with him on it(my opinion) no one can take that away \nfrom him my favorite song on the album Wrong in the right way Chris killed \nit..... "
+     text:"His best yet This album is probably my new personal favorite Tech album. It has so much \nheart and such a great variety of genres. Gangster, EDM, heavy metal, old \nschool rock, old school rap, new school rap, pop. It's such an incredibly \nwell put together album that deserves a listen. "
   },
   {
-     text:"XxxxxxxxxxxxxxxxxxxxxxxX I didnt think this album was gonna be good at all. I think its safe to say \ni was wrong, its pretty good! "
+     text:"Great album! After hearing speedom I had to get this ! Haven't heard a song yet that I \ndon't wanna hear again... all 24 of the songs are perfect! "
   },
   {
-     text:"Music This is great motivation to use my voice and sing my heart out. Bow weezy \nI love you:) "
+     text:"Quality Music Not his best but still that same \"A+\" quality and authenticity I've come \nto expect from Tech. Good work homie "
   },
   {
-     text:"The most epic album I've ever heard in my life, mixing the right old skool \ninfluences of incredible rap with sick beat and unforgettable lyrics! "
+     text:"Wtf The last half of the album is dope as hell but the first half of the album \nis mainstream as hell. From speedom to the end is real rap and Tech in his \nelement but it's just an ok LP. LOVE STORY BLOW THIS PUT THE WATER SORRY \nTECH. "
   },
   {
-     text:"Fun They're just talking about sex and money and weed, but you can tell \nthey're having fun. It's a fun, nasty album. "
+     text:"the weakest part of this album is the features this album could be amazing but some of the featured artists bring the \nquality down. But the beats are amazing, a very well produced pic of art "
   },
   {
-     text:"Hmmm I liked it but didn't love it. It is still a good album s/o to Tyga And \nBreezy "
+     text:"Best Tech Yet Probably the most ambitious album by tech yet. But I can't help but feel \nthe big singles such as \"hood go crazy\" are out of place in this semi \ndepressing/ up lifting project. This album takes on a concept of techs \npersonal life were as other projects by him have been more hit based so to \nsay. I somehow get the feeling that tech just recorded a bunch of songs and \nedited them to fit together. I know I'm just being critical but besides \nthese comments I really enjoyed this LP "
   },
   {
-     text:"3 tracks outta 16 #fail Not worth downloading! Drake mixtape kills their album lol "
+     text:"He's a rap God Eminem who's on this album Tech n9ne is the world's biggest underground independent label maker the \nrealest rapper in the rap game besides Eminem.. challenge Jay Z Challenge \nKanye West we're supposed to be at the top .....and neither one of them \nwill respond or challenge him back cuz is no competition he wins "
   },
   {
-     text:"Rubbish Ayo sounds exactly the same as Loyal, the songs have good beats but very \nimmature and irritating lyrics. "
+     text:"The best out there I hate rap/ hip hop but whenever there is a Tech album out I buy. Omg he \nis a lyrical master! Great album!!! "
   },
   {
-     text:"I love it My favorite songs are girl you loud,DGIFU,AYO,bitches n marijuana "
+     text:"Censored I know I would rate the album 5/5 however I purchased the explicit version \nand all the songs are censored please help!... *edit* it's all sorted now \n6688846993 "
   },
   {
-     text:"Drake drops a suprise MIXTAPE . didnt promote anything and has better \nnumbers then this Album that they been talking about since 2013. they fell \noff bad. smh "
+     text:"Finally, this is beast The new special effects alblum was totally worth every penny this is dope. "
   },
   {
-     text:"Its a good album for ppl who like to dance, I would consider it \nlike...\"thot music\" which I'm not a fan of but on this album they had some \ngood songs like remember me, ayo,better and lights out. "
+     text:"Another amazing album The 3 singles I've heard so far are all amazing, the speedom snippet was a \ngreat teaser, I'm fully excited for special effects. "
   },
   {
-     text:"I don't know What to Say this I don't like You're songs because They are Pretty Bad but. I like You're \nsong called Bang Bang ft. Ariana Grande & Nicki and Flashlight but Not the \nRest of Them because They are pretty Bad because They have some Badwards in \nIt \"Tho!\" but I will Hear the Rest That are um Very Good \"tho!\" "
+     text:"Falling off? Not the same tech he used to be. Highly disappointed in this album. And \nSpeedom should be more of a Midwest choppers 3 than a wwc2. "
   },
   {
-     text:"Amazing Definitely one of the best albums of the year! Jessie J's vocals are just \nso majestic and the musicality behind the voice just makes everything even \nbetter! The title track \"Sweet Talker\" produced by Diplo caught me by \nsurprise, Just laid back and refreshing! "
+     text:"TECH N9NE!!! Tremendous work of art, should absolutely be in running for the album of \nthe year, but probably won't recieve the recognition it deserves because \nits Tech. Every song is amazing. Such a variety of songs presented in their \nown way. Terrific overall album, a masterpiece. STRAAAAAANGE MUSIC "
   },
   {
-     text:"Awesome! I absolutely love this album. Definitely her best. I feel like it has a \nmuch better flow than her last, like there was one solid idea throughout. \nAnd her voice is incredible! "
+     text:"Going to be great album Tech hasnt disapointed me yet so i doubt he will now "
   },
   {
-     text:"Favourite singer Jessie J is becoming my favourite singer. Her vocal abilities are \nunparalleled and then, she also writes her own music. Every song on this \nalbum is special and perfect in their own way. It is one of very few albums \nI can listen to in its entirety without skipping any songs "
+     text:"Just crazy The most unique album I've ever heard with collaboration of very talented \nhip hop artists. Purchasing this album is worth it "
   },
   {
-     text:"I like to listen to all of Jessie j songs are very awesome and supreme \nsinger and she is a good looking woman and she is very awesome and amazing \nsinger anyway too. I like to listen to all of Jessie j songs are very awesome and amazing \nsinger and she is a good looking woman and she is very talented awesome and \namazing singer anyway too too too too too too too too too. "
+     text:"This album is buff! Just heard the whole album and it's toyt like a toyga. PB3 is my fav out \nof all 3 PB's. Tech is runnin strong right now. "
   },
   {
-     text:"Do it like it ain't been done It really gets out to people who don't believe in them selves ,I \nabsolutely loved it and I've seen her in person "
+     text:"Best Album Ever! I been a Tech fan from 2010. Tech never disappoints and he certainly didnt \nhere. This is way better than the radio and anybody you've ever heard. \nTECHNICIAN I AM, WHOLEHEARTEDLY, IN LIFE, AND IN DEATH!!! STRANGE MUSIC!!! \nAll the features were good, and this album is personal and deep, and I cant \nchoose a favorite song. 100,000,000,000,000,000,000 out of 1. Buy It!!! "
   },
   {
-     text:"SOOO GOOD Jessie J needs to be more popular. Individually, these songs are good. All \ntogether though, this is an amazing album. Keep up the good work :) "
+     text:"Tech N9ne is the greatest 25 songs guaranteed to all be bangers every single one! I've heard 4 or 5 \ntracks so far my two favorites are On the bible feat T.I. And Speedom(WWC2) \nfeat Krizz and EMINEM!!!! This studio album is more star studded than the \ngrammys well worth the money "
   },
   {
-     text:"A piece of great music. I literally love whole her. No doubts I love this album, too! Jessie J is \nmy favorite female singer so far. "
+     text:"After making $8 million last year... As an Independent artist who made Forbes list last year Tech N9ne finally \ngets his just due. I think this is like Tech's 15th album & arguably his \nBest work to date with collabos from Eminem, Hopsin, Krizz Kaliko & a ton \nmore.. Don't Sleep! R.I.P. to Tech's Mother who recently passed. "
   },
   {
-     text:"FINIALLY!! Ive been listening to her since she was underground youtube...glad she has \nbeen able to share her voice with radio listeners too.. great voice all \naround. "
+     text:"Dwamn I can say to me Tech should be number 1. Love everything he comes out \nwith. "
   },
   {
-     text:"MASTER PIECE This is beyond on what i thought it was going to be. I am very impressed. \nSuch a talented women. I love all the lyrics of the song. very eclectic "
+     text:"Too pumped up!! Just too hyped man!!! Strange Music for life!!!! "
   },
   {
-     text:"Wanna-Be Katy Perry She's awful at imitation. "
+     text:"Collaboration crazy dope ! He don't need anyone to be sick....they need him....I'm buying this sick \nalbum. He gets better every year. "
   },
   {
-     text:"Five stars Speechless "
+     text:"Great album! Tech killed it in all of the songs Just like he usually does. Glad eminem \njoined him! "
   },
   {
-     text:"Absolutely brilliant! One of the best voices I've ever heard. She's bound to be one of the \ngreats if she isn't already. "
+     text:"Phenomenal Great project from Tech, the most aggressive he's sounded in years, which \nto me, aggressive Tech = Best Tech, if I had to describe the album by \ncomparing to his other projects, it's almost like a hybrid of A6A7 and KOD, \nit catchy and widely appealing like A6A7, but topically manages to go dark \nand brooding like KOD. "
   },
   {
-     text:"PERFECT Such an amazing album, I can't stop listening to it "
+     text:"Beast Mode best collaboration album to date from tech in my opinion I will be buying \nthis album twice keep it going up ^$^ "
   },
   {
-     text:"Burnin' up This is my best song . I love hearing it looks like it is really popular \nJessie I love your songs XXX XXX "
+     text:"Best album of the year If you haven't gotten the album you're wrong.. get it today "
   },
   {
-     text:"Loving it! Just been hearing the sneak peeks on insta and I already love it! Can't \nwait!! "
+     text:"Good album. Not as good as Yelawolf, but very good. Still getting into it. \nBeats seem to put me In a good mood. "
   },
   {
-     text:"Jessie J Omg this album is soo great I actually know every song on the album Jessie \nJ is a very awesome singer "
+     text:"Was expecting bit better. Was thinking it would be better tbh and have fragile on but didn't. "
   },
   {
-     text:"This ls the oly one I like so far I did not. Her the others since bang bang "
+     text:"Just wow. Best of Tech yet. Moving. Pain makes grate music, even my mom likes a \ncouple of tracks. "
   },
   {
-     text:"So nice, diverse sounds Fave personal said too much and sweet talker and keep us together "
+     text:"Tech is number 1 Tech is the only artist whose albums I will pre order, every song is \nawesome so I know I'm going to like what I get. No need to sample his songs \nbefore I buy them! "
   },
   {
-     text:"Bang bang Wahoo all over me?? "
+     text:"That's when I knew!! Just finished listening to the deluxe album and that's when I knew I loved \nReba even more favorite country singer out there great job on the album I \nlove it! "
   },
   {
-     text:"WOoooooooooooooooooooooooooooooooooooow Like every song love Bunin up "
+     text:"Country Music I really love her music. She is a great country singing. "
   },
   {
-     text:"perfection You have earned a spot in my heart next to Adele and Tamar lord I love \nyour voice "
+     text:"Love it I love every single song on the album "
   },
   {
-     text:"Kaz Topgal need we say more, jes has a bubble ov her own, go gal x "
+     text:"Love it! Love this album. Amazing job from an amazing woman! ♡♡♡ "
   },
   {
-     text:"Go Jessie j Brilliant album I think Jessie j is going to be the biggest female singer \nin the world "
+     text:"Reba McEntire love somebody "
   },
   {
-     text:"Burnin' up Burning up by Jessie J is my greatest song that's out now "
+     text:"INCREDIBLE "
   },
   {
-     text:"Omg this blew my mind!!!!!!!! Thank you so much, you are incredibly \ntalented and so therapeutic!!!!!!!!! "
+     text:"huge hit this year! Does this play a sample before you buy it? if i buy it and it stops short \nlike it has i will never buy anymore and delete this app. My sin passed \naway in a truck accident& this was his fav song. He sang it while he worked \nor was even just happy any time of the year. Now i hear his voice when i \nhear this song :) "
   },
   {
-     text:"This is one hot chick that I always love to listen to "
+     text:"Love you guys ! HAPPY HOLIDAYS My favs! Aw, love these guys. They are never short of perfection. Could \ndefinitely see myself listening to this long after the holidays. :) \nPentafans 4 life! <3 Supahfruit! "
   },
   {
-     text:"Love Jessie Jessie is amazing.her vocals are exquisite. She is the best female singer \nin the world. Love her so much xxxxxxxxxxx "
+     text:"PRXmas Awesome, fantastic, brilliant. I mean, there are a lot of words out there, \nfrom such a small combination of twenty-six letters, that I could use to \ndescribe this album. Instead I'll just say this: Thank you! x 1000 "
   },
   {
-     text:"Amazing Jessie really puts her soul into each of the songs and makes the album \nsound alive. "
+     text:"Carol of the Bells When I first heard this song, I thought is was ok. When I heard these guys \ndo it, I stinkin fell in LOVE!! I love love LOVE PTX!!!! If you dont like \nthem, youre psycho! "
   },
   {
-     text:"Some songs ok Love most of the songs like bang bang and burning up and others "
+     text:":( Fantastic group. However extremely frustrating that ive purchased and can \nonly listen to it via 'play music' app. Cant actually store to my phone, or \norganize it into a file with other songs. Please fix. "
   },
   {
-     text:"Jessie J ft Ariana Grande and Nicki Minaj "
+     text:"To Brenda Morris I'm sorry for your loss but to answer your question about the sample, yes \nthey just play you a sample but when you buy it you get the full song. \nEnjoy "
   },
   {
-     text:"Music Put more free music play store "
+     text:"Annoying setup I only actually wanted one song, but to get it I had to purchase \neverything twice, both individually, and as a whole album. This annoyed me \nto no end, and now I want to spend the money on other things, and I can't \nget a refund. "
   },
   {
-     text:"We can lesen to the songs if you have a tabet like meiyn its awsome "
+     text:"PTXmas Love a capella groups since I first heard Don't Worry, Be Happy. This \ncaught my ear and being a sap for great old traditional Christmas music I \njust had to have it. Love the vocal ranges. This group does excellent \ncovers of great pop songs like Royals and Radioactive also. Such talent!!! "
   },
   {
-     text:"HANLEY GONZALEZ Frozen Elsa Movie Video Frozen Movie Video Part Frozen Movie Video y "
+     text:"Pentatonix is the best acapella group in decades; their voices blend \nbeautifully together and they perform with the depth of a large musical \ngroup and a band put together, but with only five members. Amazing! "
   },
   {
-     text:"I love Jessie 's music and I want this album for Christmas!!!!!!! "
+     text:"I love you guys. You guys should do call your girlfriend by Robyn. I love you guys keep \nsinging!! I will be buying you Xmas album! Everybody look on yuptube and \nsubscribe them. They rock! "
   },
   {
-     text:"This album is everything Her voice. "
+     text:"Best thing Ever LOVE ESPECIALLY LITTLE DRUMMER BOY !!!!! OMG THIS GETS ME IN THE SPIRIT \nAND EVERYONE THAT HERE'S ME PLAYING IT "
   },
   {
-     text:"Vocals are beautiful and jessie j is one of the best singers right now "
+     text:"I love it KEVIN IS THE BEST!! AND LITTLE DRUMMER BOY IS AMAZING!!! ITS BETTER WITH \nPTX SINGIN IT "
   },
   {
-     text:"Bang Bang Jessie j air nick "
+     text:"Totally Awesome It is amazing and awesome to listen to. Very soothing after a long \nstressful day in the operating room. "
   },
   {
-     text:"Love my girl, Jessie J, and I love this album! Love every song "
+     text:"I love this!! One of the best acapela groups I've heard since \"the real group\" You guys \nare amazing!! "
   },
   {
-     text:"Sweet talker She is amazing even her song cause I'm a sweet talker "
+     text:"Amazing Wow! Such and awesome group! Very talentes. Every sound you hear is done \nwith a voice...my favorite group of all time!!!!! "
   },
   {
-     text:"Best Album Best Band\\m/ I've been a Fooies fan for many years now and the greatest hits album was \nmy first album of theirs. They are simply amazing and live they just blow \nyou away. The most amazing moment was seeing them on my birthday Dec 8th \n2011, I'll never forget that day it truly made me a live long fan of them. \nBuy this album and if you haven't seen them live DO IT!!!!!!!! You won't \nregret or forget the experience\\m/ "
+     text:"Absolutely amazing I'm just addicted to Pentatonix!! "
   },
   {
-     text:"A showcase album of a modern great! Very rarely does an album's tracklist have you announcing \"Chooon!!\" out \nloud on reading each song down the list...this album, however, smashes that \nmould to smithereens with a sledge hammer and with devil horns aloft!! \nBathe in a plethora of musical genius again and again as one hit follows \nanother in a rollercoaster ride, showcasing the neck tingling power, \npassion and glory of one of the most consistently great bands of the last \ntwo decades! "
+     text:"Blown away How come I JUST discovered them. They are awesome "
   },
   {
-     text:"EVery PERSON MUST HAVE THIS CD. WHoLly - THIS CD IS OMG! RAW, REAL, AND LOVELY AT THE SAME TIME. HIGHLY RECOMMENDED \nA++++++++++++ MAJOR SOUL BABY JAM N RELEASE! PLEASE COME BACK TO DFW OR \nANYWHERE CLOSE ENUFF TO DRIVE - WE WILLIAM HAUL OUR FOO FIGHTER BUTTS \nTHERE! I PROMISE! "
+     text:"Excellent I love them best group and best version of the drummer boy ever made. "
   },
   {
-     text:"True Alternative If you've heard these guys on album, that's how they sound live. They \nrecord live and how they sound is how they sound. No crazy effects. No \nvoice editing. How true alternative should be. Not to mention all around \ngreatness "
+     text:"Parental pleaser Finally have Christmas music that doesn't just drive me crazy. "
   },
   {
-     text:"Love it love it love it I am a huge fan of them and was so happy they put it up I downloaded it \nstraight away and I can't tell you how many times I've played it! Let's \njust say its more than I can count! "
+     text:"Pentatonix Pure talent. My new obsession. "
   },
   {
-     text:"Good album but DONT BUY FROM GOOGLE Pain in the neck to find the files then when you do they don't have \ncorrect song titles. DON'T BUY FROM GOOGLE PLAY STORE, IT'S CRAP! "
+     text:"I love ptx so much thank you for this great album I love it... I'm away \nfrom my family for Christmas but your music makes me feel closer to them \n...thankyou "
   },
   {
-     text:"Excellent music This whole album is mind blowimg. I listen to the whole thing; every song \nis excellent. EPIC. Truly.Makes me feel great and satisfies my need for \nloud raging rock!!! "
+     text:"Not available to All Access subscribers. Very disappointing. "
   },
   {
-     text:"F.F. does it again I have Wasting Light, but sometimes I wonder why I didn't get this album - \nlistening to 'All My Life' as I write this - I knew most of the words when \nI was 6! "
+     text:"This group is awesome. I am addicted Must buy "
   },
   {
-     text:"Wheels Foo Fighters I know what you're thinkin' We were goin' down I can feel the \nsinkin' But then i came around And everyone I've loved before Flashed \nbefore my eyes And nothin' matterd any more I looked into the sky Well we \nall somthing better than We wish for somthing new Well,you wanted something \nbetter than Wished for something true Been lookin' for a reason and \nSomething to lose When the wheels come down When the wheels touch ground \nAnd you feel like its all over There's another round for you Whe "
+     text:"Amazing This group is absolutely amazing! I just discovered them a couple of weeks \nago and I'm loving them. "
   },
   {
-     text:"Best of the best Honestly Foo fighters is my favorite band. Not only do they write \nmeaningful music, they are so talented. Plus I've seen them live and Dave \nGrohl sounds exactly as the records...truly amazing! "
+     text:"Amazing! This is one that will be an annual favorite at my house. "
   },
   {
-     text:"Better than Nirvana Although I love Nirvana (They are in my top 5)! I have to admit The Foo \nFighters are a better band! When Dave Group sings you know he puts his \nwhole soul I to! I believe they are the only great band that is currently \nactive! They never fade keep winning those Grammys boys! "
+     text:"Loved it:-) Little drummer boy is my moms favorite christmas song,we would be driving \nto school and my mom would start singing the song. Good times. "
   },
   {
-     text:"Greatest hits albums are rarely this great From pop simplicity to syncopated rhythmical weirdness, these guys truly \ncapture mass appeal. I mean, they are simply massively appealing. "
+     text:"Love it My only complaint as a group.. Not enough of you yet! "
   },
   {
-     text:"Very simple I love the style of this band and how actually all of their songs are the \nsame song but with different lyrics, they know how to make awesome musoc \nwith only a pair of chords, that's is what for me, this is the best band in \nthe whole world "
+     text:"AMAZING LITTLE DRUMMER BOY i LOVE them they are amazing i can never stop listening to the little \ndrummer boy! "
   },
   {
-     text:"Foo fighters greatest hits Brilliant compilation of their greatest hits, each one I find myself \nsinging along to and rocking my head! "
+     text:"Better and better They never cease to amaze "
   },
   {
-     text:"I'm a hip hop/grime scene guy, but yeah Foo fighters are pretty much the only people who have been able to \nconsistently make songs I rate, without being rappers because I just have \nnever found interest in anywhere other than hip hop other than grunge. "
+     text:"I love pentatonix, they are amazing. Definitely my favorite group ever. And \nthis album just gets you in the Christmas spirit. "
   },
   {
-     text:"Learned To Fly Maybe knowing how awesome the video is influenced my opinion... but this \nsong just plain ole rocks! <3 "
+     text:"Amazing One of the best groups ive heard in a long time. My 17mth old is \nmesmermized everytime we listen to them. "
   },
   {
-     text:"Cooler than cool I won't listen to stupid Jon Wilson he chose a very stupid agreement so \neveryone listen to me and not Jon "
+     text:"Love the songs and their voices wow incredible and talented people they all \nhave a beautiful voices I hope they keep making songs "
   },
   {
-     text:"A must have album for any rock fan. This album does exactly what it says on the cover,it delivers hit song \nafter hit song great sounding rock music that delivers the goods. "
+     text:"Amazing talent Must have for every christmas collection "
   },
   {
-     text:"I have 3 CDs of them! Awesome album if you like loud music. (Nirvana, Offspring, and Creed etc) "
+     text:"Love them so much If you want to truly live buy this album and all there other albums "
   },
   {
-     text:"Awesome One of the best greatest hits compilations around. I never tire of \nlistening to the Foo's, each song sounds fresh every time. "
+     text:"Wonderful Very pretty. So much talent cooperating together .Awesomely done. "
   },
   {
-     text:"FOO FIGHTERS Greatest live performances....it blows ure mind from track all the way \nthru!!! Great energy from a Great band !'' "
+     text:"PTX It's PTX you have to love it. This is such beautiful album. I love them \nall. You can't not love the pentatonix "
   },
   {
-     text:"Rock by numbers Probably the best band in the world at making regular rock songs that \nbasically are all the same but with different lyrics. Start quiet, get \nlouder, quiet bit again then loud to fade. Nothing special. "
+     text:"Love It! If you are waching I just want to say keep up the Good work L.O.L. "
   },
   {
-     text:"Better than most Good but they need to try to be different than everyone else. They sound \nlike nickelback for now. Still ok to listen to. "
+     text:"Such a stellar group!!! I've loved them ever since I saw them on THE SING-OFF!!! They're a special \ngroup of singers, and an excellent group of musicians!!! Love them...no \nmatter what they sing!!!!! :-) "
   },
   {
-     text:"Pearl Jam/All my life Awesome! Rock it when uve had a bad day "
+     text:"PTXmas (Deluxe) Rating Wow loved their 1st Christmas album the 2nd is on it's way! "
   },
   {
-     text:"Tracklist There's so many great songs on this cd its worth getting if you don't have \nany of their albums "
+     text:"They are AMAZING!!!! No words can describe the happiness these 5 beautiful souls bring to my \nlife. "
   },
   {
-     text:"HANDS DOWN--THE BEST BAND OF THE PAST 2 DECADES!!!! Thank you Dave \nGrohl...You're MY HERO!!! (And hopefully my next ex-husband! !) LOL "
+     text:"It's OK Not better than the original. Great lyrical content overall matched \nunfortunately with garbage hooks. Game tries too hard to shape his music \ninto today's \"modern\" style and it just doesn't fit. Save maybe 4 or 5 \ntracks, song replayability is also very low. "
   },
   {
-     text:"Good album by a great band It's kind of scary to say this was kind of a disappointment "
+     text:"Fire fire This album is gonna contend with doc1 as his best work its amazing not a \nweak moment on it. Yes I got the leak but still copping the album. Read \nwiki for disc 2 and it has a few tracks listed. The features are amazing on \nit. This keeps the west going after TPAB and Compton Doc 2 continues the \nwest winning. For me doctors advocate was my Fav game album til now. Doc2 \ndoes not disappoint you can tell it was not rushed at all.some of his past \nalbums have had filler and that rushed feeling well not Doc2 GET IT "
   },
   {
-     text:"Foo fighter fan If you are going to buy any of there albums buy this it includes one of my \nfavorite songs all my life and the pretender "
+     text:"Hip Hop Album of The Year Real music!!! I can't get through the album because I keep putting every \nsong on repeat. Game most definitely did his thing. His producers brought \nsome hot beats. His featuring artists are prefect. "
   },
   {
-     text:"Best album ever! ONLY 2 POUNDS. Wow for an amazing album like this!!! And 'all my life' is \nfree!!! For as little as 2 quid, this is worth every penny if not more. My \nfavourite band and one of my favourite albums "
+     text:"Great Album So far! This has Got to be Games most ambitiou album to date! Better than The \nDocumentary or The Doctors Advocate? Definetly not, for one, those albums \nare nostalgia central and are really banging albums! In order for this \nalbum to be better than the first. We'd have to wait 10 years to see if \nwell be still listening to this one like we still do The Documentary. But \ndefinetly no songs better than Hate It Or Love It, How We Do, Higher, Put \nYou On The Game, Dreams, Where I'm From. Great album regardless. "
   },
   {
-     text:"Foo Fighters Definitely one of the most solid best of any band albums of All time. A \nclassic. "
+     text:"Ughh If your a fan of the classic that is the documentary 1 dont listen to this \nit sounds like every other album out now. Alot of hype for a big \ndisappointment "
+  },
+  {
+     text:"I can't even explain This album is ridiculiously dope. And the transition between songs are \njust icing on the cake, I've never listened to an album where they continue \nthe song to the next one. "
+  },
+  {
+     text:"Know its good but doesn't work Listened to the tracks on YouTube really liked it so thought I would \ndownload. But only saying playback error and won't work? Anyone know how to \nhelp? "
+  },
+  {
+     text:"Double disc!!! 2 disc released in back to back weeks. Know this is gonna be dope. Hes \nonly dissapointed once with Year of The Wolf know he coming back hard. "
+  },
+  {
+     text:"I'm one of the biggest game fan this sucks He should go ahead and retire the last good album he had was lax. It \nsounds like a gangbanger mixtape and their first time rapping \ndisappointed... OKE was off the chain tho should of made that the album "
+  },
+  {
+     text:"No good. Can the game make a CD with substance. Cussing and violence dont sell for \nme. It takes away. If asked. I know he can do better please "
+  },
+  {
+     text:"Wow If you like all this bubble gum ssst like say migos? Fetty wap? Future \nmumbling? I can keep going but yeah, don't buy this. If you like REAL hip \nhop, get this album. "
+  },
+  {
+     text:"Got the physical and digital Game's Doc 2 is the dopest album this year. Finally game going hard again. \nOnly gripe is too many features. But he outshines almost everyone \nlyrically. Dope album. "
+  },
+  {
+     text:"DON'T TRIP ON IT!!!! Definitely fuckin with it that joint him and Ye did was all around lyrics \non point too and thats what i look for when it comes to hip hip PERIOD!!!! \nSo when it comes down to it i can admit its a great piece of work and with \nthe next album dropping so quickly im maaaaddd curious right now sounds \nlike a comeback "
+  },
+  {
+     text:"Man... I wasn't even a Game fan previously, but THIS is by far one of his \nbest bodies of work. Well produced, written and relevant to today. His \nfeatures were well did but most importantly, Documentary 2.0 I can play \nstraight through without skipping, except some of the skits, I skip those, \nbut the songs, they got it! I normally stream music, this was an album I \npurchased, last albums I purchased were Kendrick Lamar, J.Cole, and Dr. \nDre. "
+  },
+  {
+     text:"No real hip hop icons left out here supplying us with the fix we need. \nSolute to the game on this new albulm. Hip hop is Definitely still \nbreathing thanks to a few. "
+  },
+  {
+     text:"That 100 I Play Errday A Must *Miss Big Twan That Waz My Real Ngga If He \nWaS Still Alive He Wud Kill Nggaz* He Kilt It Wit Tha Samplez Kendrick Verse On Me Oh My "
+  },
+  {
+     text:"I give it 5 nutz out of 5 It's a break from all the Trap music/Gay Agenda music you here in rap now \na day's... Good Ol Compton "
+  },
+  {
+     text:"The Game Delivers I've listened to The Game since his debut and it was great to see him \ndeliver once again. This is a very unique album in my opinion. It has a \ngood mix of old school and new school. I appreciate that Game kept this \nalbum gangsta and authentic. "
+  },
+  {
+     text:"Nice \"Just another day\" is excellent! I've been waiting for a while on doc 2 \nmany songs are really good and comparable to Dr Dres \"compton\" or \"Dotox\" \nalbum. Really nice stuff here some song are excellent others could have \nsome improvements. "
+  },
+  {
+     text:"Label? Music has changed and if you're creative and nurture your talent, the \npeople will buy your music. Great lyrical content, don't come with that \nbooboo, maybe voodoo, become a lyrical guru, who knew but you, it's just a \nGame. "
+  },
+  {
+     text:"Game outdid himself This is a certified classic album. This was everything I wanted it to be "
+  },
+  {
+     text:"Alright This album he sounds angry he's being disrespectful regarding his \nchildren's mother and some other women I mean that's his choice but where \nlies your talent??? The violence and anger ruins the tone of the album if \nthat's the direction he was intending on shooting for he nailed it... "
+  },
+  {
+     text:"Thorough! As an Inglewood native and old hip hop head its rare to find a hip hop \nalbum with more than just a few good tracks nowadays. But Game delivers \nwith this one from beat production to his elevated flow, and even his \nartfully selected guest features. Wish that hip-rock \"Hashtag\" joint was \nlonger Game, but the whole album is classic! "
+  },
+  {
+     text:"Dope The Documentary is his best...BEST album yet. Listen all the way through. \nNo need to keep your hands by the skip button. Old school feel. Amazing \nsamples. Can't wait for the second disc "
+  },
+  {
+     text:"El Chapo This goes so hard. Exactly what hip hop needed. "
+  },
+  {
+     text:"Ready!!! Three years of hard work and dedication on this album. Couple push backs \nbut he did it so that we'd get nothing less than great from this project. \nOctober 9th and 16th shall be a good day (in my Ice Cube voice)! "
+  },
+  {
+     text:"Finally!!!! Been waiting all week for this album and he didn't disappoint me. Unlike \nthe last few albums, this album is filled with track after track of pure \nfire lyrics on cocaine beats, and the features! Omg the features! Kanye, \nDrake, kendrick and Q-tip. FIRE!!!! "
+  },
+  {
+     text:"ALBUM IS FIRE Love every song on this album. I have never liked every song in no album \nfrom any artist until now. "
+  },
+  {
+     text:"Alredy a classic! I can just tell it has that feeling to it. Just remember \n10 years from now. Listening to \"100\" and this whole album deff gonna bring \nme back ! Best hip hop album this year "
+  },
+  {
+     text:"Wow way better then red album and jesus peice And better then that compilation year of the wolf ..classic album .alot of \nwork put into this dope album ..this and dre compton album both classic \n.the west is back running the rap game ..big up game ..salute .....where \ndisc 2 pre order at ? Album drops in 5 days "
+  },
+  {
+     text:"this album is tight!!! the game dug deep for this and came up with \nplatinum!!! and the second disc (2.5) is even better!!! DOPENESS "
+  },
+  {
+     text:"Grade: B++ (Favorite Tracks: Don't Trip; Dollar And A Dream; Made In \nAmerica; Circles; The Documentary // Least Favorite: B*tch, You Ain't Sh!t) This album was great. "
+  },
+  {
+     text:"What hip hop should be. None of that new garbage fetty crap type of rap. Pure. "
+  },
+  {
+     text:"Classic I gotta say this album is one of the best by far i can play this whole \nthing through im happy that someone still know what rap is it's a good year \nwith Dr. Dre, The Game, Kendrick Lamar, and J. Cole. I personally went \nlooking for this album on CD as well cuz it ain't a classic unless you have \nit on a CD lol "
+  },
+  {
+     text:"Its real, but Its real but it just doesn't sound good in my opinion. Can't find one song \nI like. "
+  },
+  {
+     text:"This is a trow back to the old game Very happy with this album the game is on point,a lot of references to his \n1st album if you listen..don't trip,the documentary 2,hash tag,sum of my \nfavourites at the moment but the whole album is a grate pice of work from \nthe game.in my opinion the original documentary won't be beat as it's in my \ntop 5 all time albums but it's a grate album none the less "
+  },
+  {
+     text:"Solid Album Double Disc I THINK THIS IS A POSTIVE STEP TOWARDS GAME GETTING HIS SWAGGER BACK FROM \nTHE FIRST DOCUMENTARY ALBUM AND DOCTOR'S ADVOCATE RECORD, I LIKED LAX AND \nTHE RED ALBUM. THIS IS MORE OF GROWN MAN MUSIC GREAT SOUND AND GREAT \nLYRICS! "
+  },
+  {
+     text:"The realest album released in years. Compared to what is coming out this \ndays i can say it is classic. A lot of people talk that it aint like the \nDocumentary 1, but it shouldn't be like it in 1st place. I mean an artist \nwas at one place mentally at that time and now 10 years after that he is on \nother place and it is a following of the 1st album. If an artist is in the \nsame place for 10 years it only mean he didn't evolve. This album is DOPE \nfrom the 1st to the last song. "
+  },
+  {
+     text:"Best album yet! This is what hip hop should be. Lyrically amazing. Interscope obviously \nwas cramping your style. "
+  },
+  {
+     text:"Not the best. He said it's as good on the original but I don't think it is. Sounds more \nold school. "
+  },
+  {
+     text:"Album is great NO STARS TO GOOGLE PLAY MUSIC, BC I HAVE 58 gigs left in storage ON MY \nPHONE, and when i try to download this for offline use it tells me, NOT \nENOUGH MEMORY WHEN IT CLEARLY SAYS THE STORAGE AMOUNT. SO I JUST BOUGHT \nSOMETHING I CAN ONLY LISTEN TO VIA INTERNET? if i wanted to do that its \ncalled youtube. Why do yall do stuff like that? Always trying to nickel and \ndime people to death. "
+  },
+  {
+     text:"BO$$ LADY LOVE this album, He did an excellent job on this one! Ryan Cassidy? You \nare crazy this is his best album he has made...just my opinion. He will \ncontinue to suceed with his music. HATERS PLEASE fall back! LOL ~BO$$ LADY "
+  },
+  {
+     text:"So what yall saying I moved to BR in 08 i was in the 6th grade when he was local doing his \nthing with the single im a grinder that when i first heard him, i wasn't \nreally listening to southern hip hop but after hearing him really spit i \nwas hooked. Lucas brasi is my favorite mixtape by him "
+  },
+  {
+     text:"Bulls eye .....on time delivery. ... clear direct and a Lil fresh new flow to the \nears. .. .. but don't take my advice Cuz with all the new rap ....I I go \nbeats first .. flow ... and then I pay attention to lyrics "
+  },
+  {
+     text:"Beastly Album Really has a distinct style that stands apart from other current rappers. \nBest songs gotta be Perfect Imperfection and John Gotti. Despite some of \nthe negative comments on here, this album is definitely worth it. "
+  },
+  {
+     text:"Love this man and his music. In order to really understand him you had to \ngo through the same things he did. I relate a lot to him. I've been \nlistening to gates since 2004. I'm very supportive of him. #bwa #idgt "
+  },
+  {
+     text:"Luca Brasi 2 I love Luca Brasi 1 and By Any Means so I know I'll love this too I \nalready love the songs he's already put out #Salute to Kevin Gates I love \nthis man he's educated,smart,great father,and a genius "
+  },
+  {
+     text:"Kevin Gates is the best rapper that came up. You already know I gotta preorder this. This dude has not made a bad song \nyet. Kevin speaks from his heart. That's why I love his music. Bruh, I \ndon't get tired. I get it out the mud, bruh bruh. "
+  },
+  {
+     text:"GATES Great music really good i think its better then the first Luca brasi and \nfor the haters that say he's wack you just don't know music and go listen \nto some one else if u don't like him don't come on here and complain \nbecause he's one of the greatest artist out there right now so go choke. "
+  },
+  {
+     text:"I think Gates is definitely one of the greats. He's a trail blazer in hip \nhop. As a Louisiana artist also I know for a fact the best rappers are in \nLouisiana . This guy is another example of how southern rap will forever \nrun this considering our diversity and contribution we provide to the game. \nIt's getting hard to ignore this type of skill. Gates is one of the greats \nperiod. "
+  },
+  {
+     text:"That work Doing work all over with a masters degree while he was in prison. Gates \nknows his business & does it well. This IS A MIXTAPE mind you haha. Keep it \n100. #IDGT #DBMOD "
+  },
+  {
+     text:"Word Around Town ft. Rich Homie Quan Luca Brasi (Intro) ft. Starillio Makin \nLove ft. Starillio John Gotti ft. Starillio I Don't Get My Tired ft. August Alsina Don't Panic ft. Starillio Talk No \nPhones ft. Starillio Thugged Out ft. Big Block Kevin Gates Luca Brasi 2: is \nGangsta Grillz "
+  },
+  {
+     text:"My man got me hooked He always played it in the car, I had to steal it from him haha -sit down \n& plugs daughter- my ish! "
+  },
+  {
+     text:"Kevin Gates is soft He's just a bad as young thug "
+  },
+  {
+     text:"Gates is a beast Name one person who goes harder than gates . loved Luca brasi 1 & 2. Gates \ntook off so fast "
+  },
+  {
+     text:"My son nice uall must not listen to lyrics. Hating azz cros "
+  },
+  {
+     text:"Lucinda Bowie, first you way of, how you going to say he needs to read a \ndictionary when your what 25 yet you can't type the entire word. Second, \nthis man is a gangsta, and no I'm not talking about that \"Ima gangsta \nbecause I'm fly bullshit\" i mean gangsta as in running dope across the \ninner city streets. I don't know this man's struggles, but we from the same \npart of the bottom and thats Southside Baton Rouge, a spot where you \nwouldn't last 15 minutes without getting turned. So what what you say. "
+  },
+  {
+     text:"Don't no what everyone talking about this fool sick came from no where and \nnow shaking the whole music industry other than the unrecognized tech \nn9ne... "
+  },
+  {
+     text:"Mrs.Gates I Loveee It.! Kevin Gates Is Baeee.! So if course I had to get it , Just \ncall me The Plug's Daughter "
+  },
+  {
+     text:"Great Album Brasi No doubt kevin gates still blazing hard with every song in this \nalbum.always going hard with every single lyrics he spits on his mixtapes. "
+  },
+  {
+     text:"Str8 knowledge This dude spitting the hottest bars right now. real street nigga, i got \nall his mix tapes. "
+  },
+  {
+     text:"LB2 I'm n love with everything about this guy. He's perfect in his \nimperfections. Music is soul touching "
+  },
+  {
+     text:"Perfect Imperfection Worthy of a #Salute!!!! THERE ARE STILL REAL ARTIST THAT TALK REAL LIFE \nISH AND NOT JUST PERPETRATING....#VoiceOfThaStreet "
+  },
+  {
+     text:"I would usually find a way to download music for free, but not for this \ndude. Well worth every cent I'm going to spend for his music. "
+  },
+  {
+     text:"Better than mainstream Gates is the best underground artist. I have this from datpiff and bought \nit when it came here. It's worth it "
+  },
+  {
+     text:"plug daughter It about sums up my life story I can't explain how much i connect to this \nartist and his music "
+  },
+  {
+     text:"Great album! Great lyricist!! I am an 80's baby. So I am use to listening to the pioneers of rap, were \nlyrics and good beats mattered. Kevin gates in my opinion, is already one \nof the greats. He is the an example of a creative artist. He blends \ntogether multiple genres so easily. You get some gangsta flows and beats, \nR&B, conscious rap, and down south flow. Hopefully he gets the recognition \nhe deserves. #KevinGates#IDontGetTired #GarbageRappersFallBack "
+  },
+  {
+     text:"B.R Representin that B.R. ,cant nobody f@$!k wit baton rouge rappers. "
+  },
+  {
+     text:"It's tight I love everything about it... And when my parents tell me to go to bed I \nsing this song "
+  },
+  {
+     text:"Gates For those who's saying Kevin gates is African American, listen to the \nbeginning of \"Plug Daughter\" he clearly states that he is Puerto Rican. Not \nblack. "
+  },
+  {
+     text:"Keep it up because we don't get tired. My favorite artists in the game right now and by far the realest "
+  },
+  {
+     text:"I Dont Get Tired More great music from the realest rapper out there "
+  },
+  {
+     text:"KG go so hard,and I know ima like this album,didn't know much about Kevin \nGates until I was incarcerated,and been listening to him ever since,big ups \nto Kevin,and a shout out to all my hoods and hoodlums,soowoo "
+  },
+  {
+     text:"Too Too Hot!! This is going the hardest out there right now. "
+  },
+  {
+     text:"LUCA BRASI 2 I can't wait til dis b***h hurry up and f****n drop gates my f****n n***a \nI f***s wit dis n***a LOUISIANA AKA DA M****F****N BOOT TIL DA CASKET DROP "
+  },
+  {
+     text:"T H I S I S R A P This guy has worked for everything and his rap is true and about what's \nreally going on THANK U KG "
+  },
+  {
+     text:"Remez Brown kevin gates is the best rapper I ever listen to because he tells the truth \nhe is not scared of nothing at all "
+  },
+  {
+     text:"Long live Brasi Kevin gates has been nice now everyone will finally see #IDGT "
+  },
+  {
+     text:"Bruh... This CD is pretty good, I never really heard any of his music until #IDGT \ncame out then I went to go hear the album before purchasing and I must say \nI really like the whole album. "
+  },
+  {
+     text:"gates do his thang he dnt bullshit Louisiana's finest Shid rap game finest "
+  },
+  {
+     text:"What has hip hop come to? Just says half the things over and over and talks about same things. How \ncan people like this?. "
+  },
+  {
+     text:"The end of hip hop! Are people really listening to this recycled rubbish!, he raps about the \nsame subject matter, from track to track. This is poor material! "
+  },
+  {
+     text:"Disgusting Awful. Terrible. Disgraceful. Especially compared to Mastermind. Was \nexpecting great and was bitterly disappointed. Worst album. "
+  },
+  {
+     text:"The production is really good! Rozay did his thing as usual too "
+  },
+  {
+     text:"Terrible Listen to port of Miami or Trilla if you like Ross. Not this "
+  },
+  {
+     text:"Boss Love the song heavy weight before boxing matches and training "
+  },
+  {
+     text:"Rich B*tch Money flows "
+  },
+  {
+     text:"G unit OFFICER RICKYYYYY "
+  },
+  {
+     text:"BOOM !! "
+  },
+  {
+     text:"This is hard "
+  },
+  {
+     text:"So bad "
+  },
+  {
+     text:"Excited! "
+  },
+  {
+     text:"Dope "
+  },
+  {
+     text:"perfect !! "
+  },
+  {
+     text:"Her Voice is Everything I know artists don't like being compared to others, but she sounds like \nAdele but with Christian lyrics and I LOVE it!! She doesn't have the \ngeneric Christian music sound that's so common. She has raw talent and \nemotion in her music. Can't wait for this album and more to follow!! "
+  },
+  {
+     text:"How Can It Be, First I love her music, great vocals and lyrics. These two songs spoke to me and \nmy life the most. I discovered her perusing Christian music videos on \nYouTube last year. And to watch her sing How Can It Be, absolutely touched \nmy heart. "
+  },
+  {
+     text:"Heartfelt Praise Powerful and True Her genuine and amazing voice will move you to tears. The lyrics decribe \nso many feelings and emotions we go through in our daily walk. Great music! "
+  },
+  {
+     text:"Love her voice! Lauren Daigle has a beautiful alto voice that's rare.* Trust in You * is \nmy favorite right now. It's a powerful message to help you through those \nrough times. "
+  },
+  {
+     text:"Fantastic album! The whole album is great. Her voice is terrific and the songs are awesome, \nmeaningful, and relevant. My favorites are 1, 2, 5, 7, and 11, but there \nisn't a single song on the album I don't care for or dislike. This is the \nfirst time I'm downloading an entire album! "
+  },
+  {
+     text:"Amazing! Gotta buy it! She sings the song of God's very heart and knows how to draw in her \nlisteners to make peace with God and give the message that God hopes \nsomeone will deliever to His people. I love hearing her passionate voice \nsing songs that can't help but draw believers draw in. "
+  },
+  {
+     text:"GREAT She is truly blessed from God with her voice! Her whole album is so heart \nfelt an Jesus CHRIST Presences near so strongly an has you want to sing an \npour out to God cause the words she has in the song speak to you in many \nways an is powerful! Thank you Lauren for you music an sharing it to our \nall brothers An sisters! God bless you! "
+  },
+  {
+     text:"Excellent Album and Worship! I recommend it! The Track called \"First\" \ncaptures The essential Truth of God's Word! Matthew 6:33 To Seek First the \nKingdom of GOD and His Righteousness! When we prioritize to Always put GOD \nFirst, everything else will workout beautifully! Delight in GOD and He will \nDelight in You! :-) "
+  },
+  {
+     text:"Incredible album! Wow. Lauren's voice is simply amazing. Listened to one track, and then \nbought her album. Hopefully I will get to see her live one day. "
+  },
+  {
+     text:"Amazing! Absolutely beautiful voice! I love her song \"First\", the first time I \nheard it on 104.9 Positive Life Radio, I immediately feel in love with the \nsong and definitely reminded me to put God first! "
+  },
+  {
+     text:"There all awesome. You should get all of the songs, they really reached my heart. Get them \nJud saying. "
+  },
+  {
+     text:"Lauren daigle Am I the only one that thinks it is utterly sad to hear a \"Christian\" \nsinger blatantly copy a secular artist as if she can't have her own God \ngiven style? I do believe we are not to conform to the pattern of this \nworld.... I think it's stupid...and pitiful. "
+  },
+  {
+     text:"Great jazzy voice It's SO great to hear a voice like Adele, without the trash, just \npleasant, lyrics that keep your eyes & mind on Him, pleasant voice, easy \nlistening, gentle on the ears, great sing-a-long car music* it's worth it "
+  },
+  {
+     text:"Love her style of singing .. \"Trust in you\" is awesome ,\"First \"is amazing. \"How can it be\" brilliant . \nLaurens song's will bring you through battles ... An You Will Win the \nWar!!!! "
+  },
+  {
+     text:"Uplifting I'm hooked, as this was my first time listening to this artist, this album \nblessed my soul and spirit. To God be the Glory for the things he has done! "
+  },
+  {
+     text:"Loving it I love Lauren Daigle's music. She is a great singer. If you don't know \nwhat Christian artist to listen to the start here "
+  },
+  {
+     text:"All Great songs speaks of what we all go through in our daily lives and words \nthat we need to encourage us that God is got our back any time any day.love \nyour voice and love the fact that the songs help to realise that God is all \nwe need in our life and that God love us!!May his grace continually grow in \nyour life and ministry Lauren "
+  },
+  {
+     text:"Lauren Daigle Mighty Woman of God@ This song has spoke to me so many times! When I find myself feeling \ncondemned, this song pulls me out of the pit! "
+  },
+  {
+     text:"God is good Hermosa cantante, y gran alabadora, Dios la bendiga y lo siga alabando por \nsiempre! "
+  },
+  {
+     text:"Strong Voice. Strong Faith. Great music, good words, wonderful singer, not overly done. Great casual \nmusic to listen to. "
+  },
+  {
+     text:"Holy Spirit Filled Thank you Lord for sending us hope thru beautiful people and beautiful \nmusic . Keep up the good the good work . "
+  },
+  {
+     text:"Awesome Leads you into his presence... Expressing the cry of your heart... "
+  },
+  {
+     text:"How Can It Be I love Lauren Daigle's voice and her lyrics. They speak to the depths of \nthe soul. "
+  },
+  {
+     text:"Awesome & Holy Spirit Filled Absolutely LOVE this song it is heart touching and HOLY SPIRIT FILLED. \nWhen ever I'm praising and Worshipping this is my GO TO SONG!!! "
+  },
+  {
+     text:"Empowered by his grace Lauren moves you though her obvious empowerment by His Grace!! "
+  },
+  {
+     text:"Love her stuff I love that there is upbeat and softer contemplative songs on this album. \nFits any mood... "
+  },
+  {
+     text:"Speaks to me. Had the pleasure and privilege to worship Jesus with her at a concert. \nWonderful! "
+  },
+  {
+     text:"I LOVE IT. Louren Daigle Is The One, I Look @ Her Songs And Listen, And Sing Them \nHoly Spirit I s Thick Among Her! "
+  },
+  {
+     text:"How can it be & First, Trust n u God is so awesome. I love your music and the lyrics are spot on. Dynamite, \nfabulous. Glorious ☺ "
+  },
+  {
+     text:"Can't get enough I know every song by heart. I truly love this album. Wish she had more and \nmore! If you like Adele, you will love this!! "
+  },
+  {
+     text:"Just pre-ordered... POSSIBLY THE BEST ALBUM I'VE EVER OWNED! "
+  },
+  {
+     text:"So awesome! Her songs capture the wonder and raw emotion of a human soul's faith and \ntrust in the God of might and mercy so beautifully. "
+  },
+  {
+     text:"Beautiful & uplifting She seems to have the song to help me express emotions & thoughts I have \ntoward God & life in a good way. "
+  },
+  {
+     text:"\"MY Revival\"...This album is AWESOME! The REVERENCE for our LORD, Jesus \nChrist, is thoroughly represented in EACH song. Well done, Lauren! "
+  },
+  {
+     text:"First Seeking God and Knowing Him more than anything.. "
+  },
+  {
+     text:"Awesome How Can It Be. All my sins are forgiven by your power of God. "
+  },
+  {
+     text:"WOW, Beautiful Music and truly a lords blessing to have her sing for our \nLord and Savior... I will definitely be at her tour February 28, Norfolk, \nVA... "
+  },
+  {
+     text:"How Can It Be by Lauren Daigle A gorgeous unique voice for Christian music, fabulous message in every \nsong. "
+  },
+  {
+     text:"Beautiful I've been having a not so easy time and Laurens songs have helped me thru \nthis time "
+  },
+  {
+     text:"GREAT! Its realy good first. And trust in younis the best if you like it i \nrecomend He Riens by news boys. "
+  },
+  {
+     text:"Phenomenal Album Zedd really knocked it out of the park for his sophomore album. Every \nsingle track is a unique masterpiece in their own right but listening to \nthe album as a whole is simply a work of art. There's a little bit of \neverything in this record: from club hits like I Want You to Know, to the \ngrittier track Transmission, to melodic tracks like Daisy there is simply \nsomething for everyone. This album is surly a hit to old and new Zedd fans \nalike. Standout tracks are Straight Into the Fire, Papercut, and Illusion. "
+  },
+  {
+     text:"True Colors is amazing I've been a fan of Zedd's work since Clarity and let me tell you that this \nalbum is better. Every song is a color and you can clearly tell because \nevery song sounds different from the last (some even bleed into each other) \nand sure this may be a little less \"hardcore\" for some people but I love \nhow his electronic music could also be acoustic or orchestral and still \nhave the same effect. This album has a story to tell and it's effective and \ninspiring. You're missing out if you don't buy at least 1 song. "
+  },
+  {
+     text:"simply awesome! i never really listened to zedd before, but when i read a few reviews and \nrecommendations by friends, i thought i might listen into this album. \nluckily, i'm on google play music all-access, so i could listen to every \nsong without purchasing it. but now that i've heard every song, i'm happy \nto say that this album is definitely worth its money! especially the songs \naddicted to a memory, beautiful now and papercut are catchy. i will \ndefinitely purchase the album when i stock up my google balance the next \ntime! "
+  },
+  {
+     text:"A new side to Zedd This album is terrific. Zedd really put a lot of time and effort to make \nthis alb different than what we've seen him make in the past, and I'm \ntotally fine with that. He's my current favorite DJ right now, and most of \nthe songs on this album just remind me why I like his music so much. "
+  },
+  {
+     text:"Heaven This album is amazing! Its rare when I like every song in an album. I'm \ntrying not to listen to it to much because I don't want it to get annoying. \nFantastic album by Zedd though, hope he keeps it up and doesn't release \nanother album for a while! "
+  },
+  {
+     text:"HIGHLY COMPLEX pieces such as Addicted To Memories is the reason why Zedd \nis a stance apart from other mixers. Papercut is another excellent track \nfrom emerging super star vocalist/actor Troye Sivan (you are moving nowhere \nbut up, up, up boy!) "
+  },
+  {
+     text:"Killin' it This is a fantastic album. Zedd has killed it yet it again and brought a \nlot of new sounds and vibes in. Some particular favorites/recommendations \nare Papercut (Troye Sivan's vocals are ethereal), Straight Into The Fire, \nIllusion, and Transmission. "
+  },
+  {
+     text:"It was Ard but not better than clarity It's just this album didn't do things & produce that amazing energy that \n\"clarity\" did especially since none of the songs were just beats put \ntogether which was disappointing, the album is creative but I didn't enjoy \nit that much, but it was better than that Calvin Harris \"motion\" BS. I \nhonestly don't know if zedd will ever out do \"clarity\"! "
+  },
+  {
+     text:"Crazy I thought it would be pretty hard to top \"clarity\". Zedd basically just \nobliterated that thought with one song. He then proceeds to absolutely \nmurder anything I've heard over the year by other artists. And it isn't \nlike it's just one song that did way better, it's the WHOLE ALBUM. Props to \nmy favorite artist. The wait was totally worth it. "
+  },
+  {
+     text:"Outstanding Never have I bought an album where I've LOVED every single song until now. \nZedd is so talented and his music is really diverse, whether you're into \nEDM or not, you're bound to like this. "
+  },
+  {
+     text:"I Am In Love I say this about every type of music but I am in LOVE! I was just looking \nup Troye Sivan, and it said that he was gonna be on Zedd's newest album. I \nwas only excited for tgat, but when I heard Beautiful Now, Addicted To A \nMemory and I Want You To Know, I was actually for real looking forward to \nthus album. Now that I've heard the whole thing, I am in love. \nLOVELOVELOVELOVELOVE. "
+  },
+  {
+     text:"PAPERCUT FT TROYE SIVAN I honestly was blown away at how good this song in particular was. it \nmight seem biased because I'm a huge fan of troye already but it was stuck \nin my head for a whole week and the song is so catchy. Great job guys <3 "
+  },
+  {
+     text:"Entirely overproduced This album certainly has a zedd feel and sound to it but it's as if it's \nzedd on steroids. The sheer quantity of different sounds and beats as well \nas the abundance of lyrics on some of the tracks is almost repulsing. On \nsongs like true colors (empire state building) the vocals are in the same \nchord for almost 2 minutes and addicted to a memory probably has over 100 \ndifferent beats/sounds to it... it literally sounds like a dial up modem. \nBeautiful now is amazing though and I have mad respect for Zedd . "
+  },
+  {
+     text:"Worth The Wait Zedd's first album Clarity restored my faith in EDM, and as soon as i \nheard that, I was itching immediately for his next album. The wait pained \nme for so long. As i was just starting to move into other genres of music, \nI thought to myself \"why dont I check up on how that Zedd guy is doing\" \nright on the release date of this new album True Colors... He's really \nsomething different, and even though this album doesn't follow the familiar \npath of his first. I have huge faith in this artist for the future to set a \nnew definition for EDM. All i need to see next is a Zedd/Myon & Shane54 \ncollaboration, and my life will be completed "
+  },
+  {
+     text:"Self explanatory Do I really need to explain why this album made by one of the best DJ'S \never gets five stars... I think not Keep bringing the amazing life changing \nexperience zedd we love you! "
+  },
+  {
+     text:"Zedd does it again Zedd brought me into EDM and he is still the best. This album is simply \namazing and really makes you feel great and that you can do anything. I \nrecommend it whether you like electronic music or not because it is more \nthan that. Good job Zedd and keep up the beautiful work. "
+  },
+  {
+     text:"Best album ever First piece of music that I have legitimately bought, and I am not \ndisappointed! I've always loved Zedd since he first came on the scene and \nthis album is amazing, every single song in it is fantastic. Definitely \nworth it! ☺ "
+  },
+  {
+     text:"Its OK and here's why... Zedd is one of the most influential artists in my music career but I feel \nlike the flare and passion of his first album clarity was not carried over \ninto his second one. spectrum (my favorite zedd song) has a immaculate \narrangement of vocals, breakdown, buildup and drops and had so much passion \nand effort put toward it and I just don't feel it this time not \ndisappointed, but underwhelmed and tbh I like the dancier tracks when it \ncomes to electronic music so not a fan of the album, but I have lots of \nrespect "
+  },
+  {
+     text:"Zedd hasn't changed Zedd has kept true to his style, not giving into the new edm-pop nonsense \nthat has been circulating through the radio. This album is phenomenal! "
+  },
+  {
+     text:"To start I thought this album was so far below his original at first. These songs \nand the way they hit your ears can make so many dark moments better. Well \nas I don't think this surpassed the previous entirely I do think this album \nis truly amazing. "
+  },
+  {
+     text:"ZEDD, but not dead Saw the concert in Phoenix... Kicked azz.. "
+  },
+  {
+     text:"Amazing once again with True Colors The one who truly bring me into EDM . Every song made for any mood. Never \na let down. Each different in their own way. Simply amazing. Anton is the \nbest out there, and Let the days count on to his success. Love it Only wish \nto see one of his spectacular shows "
+  },
+  {
+     text:"Speechless!! Honestly Zedd never disappoints! his songs all connect it feels like he's \ntelling us a story through music and its so amazing "
+  },
+  {
+     text:"Brilliant When it came out, I was impressed with the new sound Zedd had produced. \nThis album is way more successful than his last one. The song I really \nliked the most was Papercut. My favorite on this album is Bumble Bee. True \nColors is one of the best Dance Pop albums ever. "
+  },
+  {
+     text:"Zedd is Amazing!!! Zedd got me into EDM... Especially with my favorite song, find you, but \nnow his new album Came out and its OVerwhelming!!!!. . .my favorite song on \nthe album is papercut.. . . keep up the amazing talent, Zedd. "
+  },
+  {
+     text:"Fantastic! Zedd is such a talented artist, this album does not disappoint in the \nslightest. Gems like True Colors, Papercut, Illusion, and Done With Love \nmake up for any shortcomings on the album there may be. Very Pleased! "
+  },
+  {
+     text:"Utterly Amazing No words in the universe can truly describe how amazing this album is. I \nhad no doubts in my soul about this album and Zedd just continues to be \nextrodinary. Love his music and this album is extremely extrodinary. He is \nnever a let down. "
+  },
+  {
+     text:"PAPERCUT TROYE SIVAN MELLET I AM SO PROUD OF YOU. PAPERCUT IS SO GOOD THE WHOLE \nALBUM IS SO GOOD AND I JUST LOVE YOU SO MUCH I MIGHT CRY I'M SO PROUD TROYE \nBOY "
+  },
+  {
+     text:"Amazing I've waited 2 years to hear the follow up to clarity. You can hear the \noriginal Zedd in this album,but also the new Zedd. All around this album is \nfantastic. I can't stop listening to \"Done With Love\" and \"Beautiful Now\" "
+  },
+  {
+     text:"Favorite Album I love every song on this album! Can't possibly recommend it any more! "
+  },
+  {
+     text:"Truly AMAZING!! It's very rare for me to like every single on one album but this album is \none of the very few albums that somehow manages to do that. I also like how \nsome of the songs are binded together so they cab play with no gap in \nbetween. "
+  },
+  {
+     text:"Zedd nailed it... To be honest, this is one of the most best albums out there. Zedd didn't \njust include EDM, but he also included pop songs like for example; 'True \nColors' and 'Daisy'. This album is excellent for relaxing, its worth buying \nit. "
+  },
+  {
+     text:"Awesome!! Makes me want to dance, especially straight into the fire,done with love, \npapercut, addicted to a memory and last but not least, i want you to know "
+  },
+  {
+     text:"Love it! Zedd did good on this one, reminds me of the last album a little, but I \nlike this one better. "
+  },
+  {
+     text:"Nothing new Kinda boring without much soul. Talented guy though. "
+  },
+  {
+     text:"Emotional I believe this album has a lot of stories behind every song it bc maybe \neach color represents that song and an emotion I would love to meet Zedd bc \nhe seems like a very cool and interesting guy "
+  },
+  {
+     text:"Can always count on zedd Been listening to zedd way back when he got picked up by skrillex I've \nalways loved his music. I bought clarity and it looks like I'm buying this \nas well "
+  },
+  {
+     text:"Inspiring I'm the other hand of RAGE-ING-X and I've been trying to find my lyrics \nfor songs and this album with its drops/vocals have just changed my \nperspective "
+  },
+  {
+     text:"Might have a lot of promise His last album was exceptionally good. So far from the songs he has \nreleased I can tell this album has a lot of promise. Can't wait to listen \nto it later tonight. EDIT: this album was everything I was expecting. "
+  },
+  {
+     text:"True Colors I couldn't stop playing done with love. I just had to buy the whole album "
+  },
+  {
+     text:"TOO DOPE. A very complete album that will get you going. Mac progresses and \nchange in every album/mixtape and I will always appreciate what he has to \noffer. From KIDS to Watching Movies to Faces, he can relate to so many \nteenagers out there, and that is what makes him unique. The struggle to \novercome the mind and the environment we are stuck in, we are not alone. "
+  },
+  {
+     text:"Incredible. This could easily be album of the year. The album has meaning, it shows \nwhat Mac's been going through. If you're a Mac fan you'll love this. \"Jump\" \n\"Weekend\" \"Ascension\" \"Perfect Circle/ God Speed\" are just some of the \namazing tracks on this album. I highly recommend listening to the second \npart of \"Perfect Circle/God Speed\" Mac says some deep stuff in the second \npart that'll make you say \"Wow\". You don't want to miss this masterpiece! "
+  },
+  {
+     text:"One of his best. Mac really surprised me with this album. One of his best no doubt. But i \ncan feel that he's just going to rise from this, and make even better \nalbums from here on out. Lyrical genius that keeps you entertained and in \ntune. Try listening to Ascension, Rush Hour, Perfect Circle/Godspeed, and \nTime Flies. Great album all around. "
+  },
+  {
+     text:"Just ok. Expected a little growth from him. Loved watching movies but this doesn't \nhave the wittiness, humor, or depth of his previous two. Without that, he's \njust another rapper talking about money and hoes. You've heard it all \nbefore. "
+  },
+  {
+     text:"One of the best 2015 This album is dope asf, probably don't listen to like 2 songs but \neverything else Is good, personally the ones that really grabbed my \nattention a lot and loved was \"weekend\" and \"jump\" I can jamm to them all \nday "
+  },
+  {
+     text:"Flawless album! Mac has officially evolved into one of the best rappers in the game(from \nlistening to Nike's On My Feet & the whole K.I.D.S mixtape when it was out, \nhe has always been one of the greats.) And this change since Faces or even \nWatching Movies With The Sound Off, is ultimately for the better. If you \nhaven't bought this album, shame on you because this album is one of the \ngreatest releases this year! No words can describe the excitement I had for \nthis album and I was never disappointed by any song on GO:OD AM. "
+  },
+  {
+     text:"Best Mac Miller thus far This album is hard to overplay. I've listened to primarily just this album \never since it was released. I saw him perform most of it at Red Rocks on \nHalloween. Everyone needs to hear this album. "
+  },
+  {
+     text:"Good AlbuM But absolutely crap features like Cheef Kief.....you have to be kidding. \nHe has ZERO content. Get a drum kit! F**K your auto electric clicks. My \nonly complaints. "
+  },
+  {
+     text:"ohmagawd I've been a pretty big Mac fan since KIDS and Blue Slide Park, and let me \njust say, this is his best album to date. It just keeps delivering, the \nbeats, the ryhmes, the flow, the production. Personal favs : Rush Hour, \nBrand Name, Break the Law) All of it is great. Definitely for fans, and \npeople just trying to get into something new. "
+  },
+  {
+     text:"pumped popularity to sell this dude is horrible. how does a record company put out a horrible \nproduction. maybe record producing is cheaper nowadays and all that is \nreally needed is a laptop and a shower curtain to press a cd... "
+  },
+  {
+     text:"Not even half as good as his early stuff If you liked his early stuff (Donald Trump, Blue Slide Park, Party on 5th \nAve, Smile Back, Missed Calls ect.) This ain't it. This is more, \"I do \ndrugs and break the law, I'm a gangster look at me\" than the fun feeling of \nhis early songs. "
+  },
+  {
+     text:"Wtf Google play?? It's a great album however... I bought it but it doesn't show up in my \nmusic and when I press listen in Google play it gives me an error! Come on \ngoogle. Don't steal my money. I just want to listen to the album that I \nPAID for. "
+  },
+  {
+     text:"Can't wait! Mac is my all time favorite rapper. His flows are sick he also knows how \nto get a crowd going! Most dope for life "
+  },
+  {
+     text:"Pretty good, but what happened? I've loved Mac pretty much since he first started out. I've always like \nhis songs that are upbeat and so lively, but now he's starting to mellow \nout his songs and they just aren't as appealing anymore. He's still an \namazing artist but I wish he'd start doing songs like he used to. "
+  },
+  {
+     text:"Made in a few hours I used to love mac's music, but it sounds like complete crap, it was \npainful listening to no joke. He has good rhymes, but no rhythm, and the \nbeats he used sound like they just whipped them up, and he rapped and \nrecorded on the spot. Do not recommend this. Not even for 99 cents. Come on \nMac, if your going to put out music put effort behind it. "
+  },
+  {
+     text:"Break the law I didn't get the album, but i got break the law, the best song i have \nheard yet!! "
+  },
+  {
+     text:"Most Dope! Took a while since he dropped an album. People been sleeping on Mac and \nmay have forgot how good this MC is. Straight up! "
+  },
+  {
+     text:"Mac Miller has taken a turn for the better, his music has grown as he has \nand rather than the days of \"Donald Trump\" and \"Knock Knock\" the songs on \nthis album actually appear to be message driven rather than simple \ncelebratory music. "
+  },
+  {
+     text:"Much improved album, brand new Mac This album sounds amazing and offers a more cheerier outlook after the \ndrug riddled sound of his mixtape “faces \". They are both good projects in \ntheir own rights and both represent a more mature, adult Mac Miller. Great \nuptempo beats, bars for days, and decent features place G0:0D AM in my top \n3 albums of 2015 "
+  },
+  {
+     text:"Amazing Everything that I would expect from Mac. He's not trying to change the \nworld like Kendrick or jcole but that's OK some times you just wanna listen \nto bangers and the message doesn't matter "
+  },
+  {
+     text:"Mac Miller has certainly come a long way Mac Miller is able to actually convey a message without changing a ton to \nthe way his music sounds overall (Looking at you, Kendrick). I used to \nabsolutely hate his music, but these last 3 years have been good for him. \nGlad to see him evolve as an artist. "
+  },
+  {
+     text:".... Sonically not impressed Lyrics sound fresh out of rehab. It to early to be mediocre Mac! "
+  },
+  {
+     text:"Wtf google BEWARE, both versions of the album on here are radio edited, very very \nfrustrating. Otherwise, great album, best of his career IMO. "
+  },
+  {
+     text:"Best This is probably one of the best album of the year. Mad props to Mac \nMiller. Waited awhile and came out with something that would slay. "
+  },
+  {
+     text:"Can't wait! Alot of people sleep on Mac. Most Dope foreal. Straight Savage on the Mic. \nA Real MC "
+  },
+  {
+     text:"Trash Where is this fire everyone is talking about? This is still better than \nLil Wayne though "
+  },
+  {
+     text:"Not horrible Not really a mac Miller fan bought it since it was 99￠ but its not \nterrible "
+  },
+  {
+     text:"Great Ay I love this album but you know what's funny I didn't have to pay \nanything thanks to my friends at frostwire that is an app where you could \nget one song for free or the whole album. I still support Mac Miller but I \njust wanted to say you don't have to pay money to hear the music "
+  },
+  {
+     text:"Fire mac just went up a notch in my book. Evolution of mac is hands down the \nbest out of all the artists. "
+  },
+  {
+     text:"Mac Miller never disappoints Album is fire. I wasn't sure what I was gonna get when I bought this album \nbecause I never previewed any of the tracks. I needed some new music and \nthis definitely fulfilled my needs. From \"Brand Name\" to \"When In Rome\" \nthis piece of Macs mind will wake you up. "
+  },
+  {
+     text:"Lol Not a fan of his, but to the person who said he copied the Yelawolf album \ncover: if I'm not mistaken, there was a wolf on that cover, not a picture \nof Mac Miller. "
+  },
+  {
+     text:"WHAT EVERYONE HAS BEEN WAITING FOR Been listening to mac all my life and have been evolving to him as he \nmoves on in life. Faces and GO:OD AM are the masterpieces of our \ngeneration. Don't sleep on the new yeezy! "
+  },
+  {
+     text:"Very well done album From the lyrics, beats, to the concept this album is very well put \ntogether. You can nearly play it all the way through without skips. It is a \nlittle too long of an album, but almost all the songs deserve to be there \noutside of maybe 2 tracks. "
+  },
+  {
+     text:"Yup Bout time a perfect album from him. Not theowing shade at the other ones \nbut this is def a part of hiphop history and the fact nobody could ever \ncompare him to anybody "
+  },
+  {
+     text:"Crazy! This Album is too good. This just solidified him in my Top 10, and proved \nhis ability in the music industry. If this is his sober work, then we have \na lot to look forward to. This is better than his last, and i'm an official \nfan. "
+  },
+  {
+     text:"In Love. I honestly can not, I mean CAN NOT, wait. Literally 2 more hours, I am \nsooo hype!! "
+  },
+  {
+     text:"I feel like this album isn't Mac. I feel like he's trying to be someone \nelse. It's just not him.. His older albums are unique but this one is just \nlike all the other rappers out there .. the same. "
+  },
+  {
+     text:"Can't Wait I can not wait for, this release macs been my favorite. Since K.I.D.S so I \nalready, know this is gonna be. "
+  },
+  {
+     text:"Most dope!! This album is my euphoria!!! Thank you Mac miller the day I first heard \nthis album my life turned around!!! Much love!! Peace. "
+  },
+  {
+     text:"So nice HAD TO BUY IT TWICE Hey it's the first album I've bought in years and the first album I've \nbought TWICE. Love supporting this guy, can't wait to see him live next \nWednesday. Keep the positivity coming "
   }];
 for (var m=0; m<URLS.length; m++) {
   alchemy_language.sentiment(URLS[m], function(err,response){

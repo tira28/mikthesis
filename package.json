@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "description": "Test for text analysis ",
   "main": "app.js",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cjson": "^0.4.0",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
